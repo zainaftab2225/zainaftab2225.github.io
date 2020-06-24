@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Videogames"
+    url: /videogames/
   - title: "CSS"
     url: /css-page/
   - title: "About"
