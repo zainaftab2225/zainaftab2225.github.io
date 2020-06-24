@@ -1,5 +1,5 @@
 ---
-title: "Videogames"
+title: Videogames
 layout: collection
 permalink: /videogames/
 collection: videogames
