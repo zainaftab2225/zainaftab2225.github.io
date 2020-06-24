@@ -1,5 +1,5 @@
 ---
-title: Videogames
+title: Video Games
 layout: collection
 permalink: /videogames/
 collection: videogames
