@@ -1,6 +1,5 @@
 ---
 title: "The Last of Us 2 Review"
-layout: posts
 excerpt: "A game that defines this generation. A swansong for the PlayStation 4."
 date: 2020-06-24
 tags: [The Last of Us, Joel, Ellie, PlayStation, The Last of Us 2]
