@@ -298,7 +298,7 @@ defaults:
       toc: true
 
   # _videogames
-    - scope:
+  - scope:
         path: ""
         type: videogames
       values:
