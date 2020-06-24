@@ -1,8 +1,10 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  
+layout: splash
+classes:
+  - landing
+  - dark-theme
 ---
 ![THIS IS DA PROFILE PICTURE](/images/profile_picture.JPG)
 
