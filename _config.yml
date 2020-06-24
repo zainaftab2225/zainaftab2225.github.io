@@ -269,7 +269,10 @@ collections:
   css:
     output: true
     permalink: /:collection/:path/
-    
+
+  videogames:
+      output: true
+      permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -283,7 +286,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _css
   - scope:
       path: ""
@@ -293,6 +296,16 @@ defaults:
       author_profile: false
       share: true
       toc: true
+
+  # _videogames
+    - scope:
+        path: ""
+        type: videogames
+      values:
+        layout: single
+        author_profile: false
+        share: true
+        toc: false
 
   # _pages
   - scope:
