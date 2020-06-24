@@ -5,6 +5,8 @@ layout: splash
 classes:
   - landing
   - dark-theme
+header:
+  - image: /images/profile_picture.JPG
 ---
 ![THIS IS DA PROFILE PICTURE](/images/profile_picture.JPG)
 
