@@ -266,7 +266,7 @@ compress_html:
     envs: development
 
 collections:
-  portfolio:
+  css:
     output: true
     permalink: /:collection/:path/
     
@@ -284,10 +284,10 @@ defaults:
       share: true
       related: true
       
-  # _portfolio
+  # _css
   - scope:
       path: ""
-      type: portfolio
+      type: css
     values:
       layout: single
       author_profile: false
