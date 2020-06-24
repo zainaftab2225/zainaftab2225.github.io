@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Zain Aftab"
   avatar           : "/images/profile_picture.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Personal blog where I write about things I find interesting"
+  bio              : "Computer scientist who loves videogames."
   location         : "Rawalpindi, PK"
   email            : "zainaftab2225@gmail.com"
   links:
