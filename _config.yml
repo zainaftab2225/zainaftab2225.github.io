@@ -299,13 +299,13 @@ defaults:
 
   # _videogames
   - scope:
-        path: ""
-        type: videogames
-      values:
-        layout: single
-        author_profile: false
-        share: true
-        toc: false
+      path: ""
+      type: videogames
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      toc: false
 
   # _pages
   - scope:
