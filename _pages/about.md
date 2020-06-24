@@ -1,11 +1,13 @@
 ---
 title: "About"
 permalink: /about/
+layout: splash
+classes:
+  - landing
+  - dark-theme
 header:
-
+  - image: /images/profile_picture.JPG
 ---
-![tset](/images/ellie_tlou2.jpg)
-
-## About
+![THIS IS DA PROFILE PICTURE](/images/profile_picture.JPG)
 
 A CS grad who likes to learn new things and talk about video games.
