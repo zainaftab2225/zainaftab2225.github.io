@@ -33,9 +33,8 @@ You play as Ellie this time who faces a traumatic event in her life and sets out
 ![image-center](/images/tlou2_review_image_3.jpg){: .align-center}
 
 She wants to take revenge for what has happened to her. Revenge stories are nothing new in contemporary media and this one isn't particularly new either. However, the way Naughty Dog tells the story, that is
-where the game shines. The game puts in a situation that you feel is necessary for the time but then a few hours later, makes you question that decision. You will start
-questioning the characters you loved, and maybe empathize with characters that you initially dislike. There will come a time in the game where you fight
-a boss but you're rooting for the boss but also yourself. It's confusing, messy and manipulative - *I love it*.
+where the game shines. The game puts in a situation and makes a decision that you feel is necessary for the time but then a few hours later, makes you question that decision. Actions that you feel were right will
+turn out to be wrong. Actions that you feel are wrong may not be as wrong as you thought early on. You will start questioning the characters you loved, and maybe empathize with characters that you initially dislike. There will come a time in the game where you fight a boss and you'll  end  up rooting for the boss but also yourself (or may be not). It's confusing, messy and manipulative - *I love it*.
 
 ### Gameplay
 
@@ -62,4 +61,6 @@ The only part of the gameplay that let me down was the character customization. 
 be ignored and the game will still play the game. Furthermore, the weapon customization faces this same problem. You collect parts to upgrade your weapons but it lacks depth. You can add a scope or decrease the reload
 time but that's as far as it goes. However, this is a minor complaint in a game that otherwise plays fantastic.
 
-###
+### Visual Quality
+### Sound
+### Performance
