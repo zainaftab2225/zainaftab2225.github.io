@@ -1,5 +1,6 @@
 ---
 title: "About"
+layout: home
 permalink: /about/
 header:
   image: /images/profile_picture.JPG
