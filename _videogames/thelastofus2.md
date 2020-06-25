@@ -7,7 +7,7 @@ tags: [The Last of Us, Joel, Ellie, PlayStation, The Last of Us 2, The Last of U
 
 *A game that defines this generation; a swansong for the PlayStation 4.*
 
-![image-center](/images/tlou2_review_image_1.jpg){: .align-center}
+![image-center](/images/tlou2_review_image_2.jpg){: .align-center}
 
 - Publisher: Sony Interactive Entertainment
 - Developer: Naughty Dog
@@ -27,10 +27,11 @@ best games I've played this year. It is truly a game that defines this generatio
 
 The story of the first game revolved around the themes of love and hope in a bleak world that is torn apart by a deadly virus that infects people
 and turns them into mushroom zombies. While this premise may sound outrageous (and hilarious), the Cordyceps virus actually exists in the real world
-and it takes over the motor functions of insects (especially ants). ![image-left](/images/tlou2_review_image_2.jpg){: .align-left} The sequel, however, mirrors those themes. It is a game is about hate and loss.
-You play as Ellie this time who faces a traumatic event in her life and sets out to make things right. She wants to take revenge for what has happened
-to her. Revenge stories are nothing new and this one isn't particularly new either. However, the way Naughty Dog tells the story, that is where the game
-shines. The game puts in a situation that you feel is necessary for the time but then a few hours later, makes you question that decision. You will start
+and it takes over the motor functions of insects (especially ants). The sequel, however, mirrors those themes. It is a game is about hate and loss.
+You play as Ellie this time who faces a traumatic event in her life and sets out to make things right.
+![image-center](/images/tlou2_review_image_1.jpg){: .align-center}
+She wants to take revenge for what has happened to her. Revenge stories are nothing new in contemporary media and this one isn't particularly new either. However, the way Naughty Dog tells the story, that is
+where the game shines. The game puts in a situation that you feel is necessary for the time but then a few hours later, makes you question that decision. You will start
 questioning the characters you loved, and maybe empathize with characters that you initially dislike. There will come a time in the game where you fight
 a boss but you're rooting for the boss but also yourself. It's confusing, messy and manipulative - *I love it*.
 
