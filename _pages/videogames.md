@@ -7,5 +7,5 @@ collection: videogames
 entries_layout: list
 classes: wide
 header:
-  image: "/images/videogames_banner.jpg"
+  image: "/images/videogames_banner_2.jpg"
 ---
