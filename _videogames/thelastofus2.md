@@ -16,7 +16,7 @@ tags: [The Last of Us, Joel, Ellie, PlayStation, The Last of Us 2, The Last of U
 
 
 When the sequel to the critically acclaimed 'The Last of Us' was announced at PSX 2016, many fans were excited but
-some were skeptical. The first game had ended the story of Joel and Ellie (the two main characters) in a fulfilling (but controversial) way.
+some were skeptical. The first game had ended the story of Joel and Ellie, the two main characters, in a fulfilling (but controversial) way.
 They were to live the rest of their lives in Jackson County, Wyoming with the decision that Joel that made at the end of the first game.
 So why did Naughty Dog decide to make a sequel to The Last of Us? Is there more to the story of Joel and Ellie? Does the sequel to one of the
 best games of the last generation justify it's existence? In my opinion, the sequel not only justifies its existence but it is also one of the
@@ -34,7 +34,7 @@ You play as Ellie this time who faces a traumatic event in her life and sets out
 
 She wants to take revenge for what has happened to her. Revenge stories are nothing new in contemporary media and this one isn't particularly new either. However, the way Naughty Dog tells the story, that is
 where the game shines. The game puts in a situation and makes a decision that you feel is necessary for the time but then a few hours later, makes you question that decision. Actions that you feel were right will
-turn out to be wrong. Actions that you feel are wrong may not be as wrong as you thought early on. You will start questioning the characters you loved, and maybe empathize with characters that you initially dislike. There will come a time in the game where you fight a boss and you'll  end  up rooting for the boss but also yourself (or may be not). It's confusing, messy and manipulative - *I love it*.
+turn out to be wrong. Actions that you feel are wrong may not be as wrong as you thought early on. You will start questioning the characters you loved, and maybe empathize with characters that you initially dislike. There will come a time in the game where you fight a boss and you'll  end  up rooting for the boss but also yourself (or may be not). You may end up siding with a character but don't expect the same from other players. They may like characters in the game that you don't like. This game will divide the fanbase. It's confusing, messy and manipulative - however, *I love it*.
 
 ### Gameplay
 
@@ -46,7 +46,7 @@ pace without hurting the story progression of the game.
 
 ![image-center](/images/tlou2_review_image_1.jpg){: .align-center}
 
-The stealth reminded of Hideo Kojima's Metal Gear Solid V which in my opinion, is the perfect stealth simulator. Whether you are sneaking past the infected or are fighting the varied human
+The stealth reminded of Hideo Kojima's Metal Gear Solid V which in my opinion, is the perfect stealth simulator to date. Whether you are sneaking past the infected or are fighting the varied human
 enemies, the tension is always high. Even if you get detected, it is always a good idea to run far away from the area and go back into stealth. Furthermore, the stealth gameplay isn't always
 the same. The player has to adapt to their environment and enemies. The infected may have specific patterns that you can sneak past, but the humans do not. They have unpredictable behaviors which raises
 the tension even more. An example would be that if they find a body, they don't just go back to normal after some time. They start doing a grid search and looking for suspicious activity in the area.
@@ -62,5 +62,30 @@ be ignored and the game will still play the game. Furthermore, the weapon custom
 time but that's as far as it goes. However, this is a minor complaint in a game that otherwise plays fantastic.
 
 ### Visuals
+
+It wouldn't be a Naughty Dog game if they weren't squeezing out every single pixel possible from the PlayStation 4. This is easily the best looking game on the console. It is amazing what they can accomplish with hardware
+that is almost seven years old now. The character models are the best I have ever seen. The environments of Seattle are drab yet somehow breath-taking. If Ellie hits a tree covered in snow, the snow falls off. If Ellie steps on blood, she leaves bloody footprints on the ground. The face she makes while she's bringing down a Clicker shows the amount of strength she's putting into it.
+
+![image-center](/images/tlou2_review_image_6.jpg){: .align-center}
+
+I'd also like to point out how satisfying the motion capture and the animations are of this game. The actors did an amazing job bringing all the characters to life whether it be in gameplay or cutscenes. There is a certain fluidity to the game even though there are a ton of animations. Rockstar's Red Dead Redemption 2 had a lot of animations as well but it actually held the game back. Naughty Dog has somehow hit the sweet spot where not only the animations are satisfying to look at but they don't hinder the gameplay.
+
 ### Sound
+
+One of the main themes of The Last of Us Part II is music and it's great. Composed by Gustavo Santaolalla, who also did the music for the first game, the music is perfectly placed throughout the game especially in the story beats. The first thing I did when the game ended was look up the song 'Beyond Desolation' because somehow it manages to perfectly capture the feelings of the characters at the end of the game. If you were a fan of  the music in the first game, you won't be disappointed.
+
+![image-center](/images/tlou2_review_image_4.jpg){: .align-center}
+
+Also, the game just generally sounds great. When the player faces the Clickers for the first time, they sound genuinely horrific and somehow much better than the first game. The gunshots have impact and they sound loud and messy as they should. One of the most memorable moments when it comes to sound is when the first time I faced against the human enemies known as Seraphites. Their sound design is just eerie and unique. They whistle to communicate and it just creeps you out.
+
 ### Performance
+
+For a game that looks this good, sounds so unique and plays so fluid, the performance is surprisingly stable. It is a locked 30 FPS at 1080p resolution on the base PlayStation 4 console on which I reviewed and it barely ever dropped frames. When the first game launched in 2013, the performance on the PlayStation 3 was quite bad with drops down to 25 FPS. However, Naughty Dog have done a great job here making this good look so good and run so smooth. Note that it doesn't run on 4K resolution on the PlayStation 4 Pro but rather on 1440p (which is unfortunate). We'll have to wait for the PlayStation 5 to see how this game looks in 4K.
+
+### Verdict
+
+![image-center](/images/tlou2_review_image_5.jpg){: .align-center}
+
+Naughty Dog has made a worthy sequel to the first game. While the story may not be as grand as the first game where you are on a mission to save the world from a zombie apocalypse, it still manages to pull enough punches to make an impact. Everything else whether it be gameplay or visuals have been improved and polished to the maximum degree. If you decide to skip on this game, you'll surely be missing out on one of the greatest games on the PlayStation 4 and Naughty Dog's best work yet.
+
+### Final Score: 10/10
