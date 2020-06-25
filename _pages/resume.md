@@ -1,5 +1,6 @@
 ---
 title: "Resume"
+layout: single
 author_profile: true
 classes: wide
 permalink: /resume/
