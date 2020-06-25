@@ -97,7 +97,7 @@ author:
   avatar           : "/images/profile_picture.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer scientist who loves videogames."
   location         : "Rawalpindi, PK"
-  email            : "zainaftab2225@gmail.com"
+  email            : # email 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
