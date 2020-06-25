@@ -6,6 +6,8 @@ main:
     url: /videogames/
   - title: "CSS"
     url: /css-page/
+  - title: "Resume"
+    url: /resume/
   - title: "About"
     url: /about/
   # - title: "About"
