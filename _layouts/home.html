@@ -6,9 +6,16 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
+# CSS
 <div class="entries-list">
   {% include documents-collection.html collection='css' type='list' sort_by='title' sort_order='reverse' %}
 </div>
+
+# VideoGames
+<div class="entries-list">
+  {% include documents-collection.html collection='videogames' type='list' sort_by='title' sort_order='reverse' %}
+</div>
+
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
