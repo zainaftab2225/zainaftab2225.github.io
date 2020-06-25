@@ -7,7 +7,7 @@ layout: archive
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 <div class="entries-list">
-  {% include documents-collection.html collection=css type=list %}
+  {% include documents-collection.html collection='css' type='list' sort_by='title' sort_order='reverse' %}
 </div>
 
 {% if paginator %}
