@@ -53,7 +53,7 @@ the tension even more. An example would be that if they find a body, they don't 
 
 The game also does a great job of mixing the themes of the story with it's gameplay. In most games, you kill hundreds of NPCs without feeling any remorse. In this game, however, every NPC is named and
 behaves like an actual human being. Two NPCs who cross paths may start a conversation. They talk to each other and try to flank the player during combat. If they find a body, they express sadness and call out the name of
-that NPC. When I heard the name of the people I killed, it made them human to me which I have not seen in any other game. So, killing an NPC has weight to it in this game. It's a simple touch but quite effective.
+that NPC. When I heard the name of the people I killed, it made them human to me which I have not seen in any other game. Killing an NPC has weight to it in this game. It's a simple touch but quite effective.
 
 ![image-center](/images/tlou2_review_image_7.jpg){: .align-center}
 
@@ -61,6 +61,6 @@ The only part of the gameplay that let me down was the character customization. 
 be ignored and the game will still play the game. Furthermore, the weapon customization faces this same problem. You collect parts to upgrade your weapons but it lacks depth. You can add a scope or decrease the reload
 time but that's as far as it goes. However, this is a minor complaint in a game that otherwise plays fantastic.
 
-### Visual Quality
+### Visuals
 ### Sound
 ### Performance
