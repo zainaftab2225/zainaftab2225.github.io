@@ -2,13 +2,13 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">Recent CSS Posts</h3>
-<h2> CSS </h2>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_css_posts | default: "Recent CSS Posts" }}</h3>
 <div class="entries-list">
   {% include documents-collection.html collection='css' type='list' sort_by='title' sort_order='reverse' %}
 </div>
 
-<h2>VideoGames</h2>
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_game_posts | default: "Recent Video games Posts" }}</h3>
 <div class="entries-list">
   {% include documents-collection.html collection='videogames' type='list' sort_by='title' sort_order='reverse' %}
 </div>
