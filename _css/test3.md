@@ -1,3 +1,8 @@
+---
+title: QUDOOS BHAI
+excerpt: KABHI QUDOOS KABHI GHAM
+---
+
 # ABDUL 
 
 ## ABDUL KA BETA ASLAM
