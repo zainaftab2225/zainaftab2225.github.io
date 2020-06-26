@@ -1,5 +1,5 @@
 ---
-title: CSS Posts
+title: "CSS Posts"
 layout: collection
 author_profile: true
 permalink: /css-page/
