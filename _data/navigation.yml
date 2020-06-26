@@ -2,14 +2,26 @@
 main:
   - title: "Home"
     url: https://zainaftab2225.github.io/
-  - title: "Video Games"
-    url: /videogames/
-  - title: "CSS Posts"
-    url: /css-page/
-  - title: "Resume"
-    url: /resume/
   - title: "About"
     url: /about/
+  - title: "Video Games"
+    url: /videogames/
+  - title: "Resume"
+    url: /resume/
+  - title: "Computer Science"
+    url: /css-page/
+  - title: "US History"
+    url: /css-page/
+  - title: "Sociology"
+    url: /css-page/
+  - title: "Criminology"
+    url: /css-page/
+  - title: "Gender Studies"
+    url: /css-page/
+  - title: "CSS Posts"
+    url: /css-page/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
