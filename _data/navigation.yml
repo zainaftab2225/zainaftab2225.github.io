@@ -4,6 +4,10 @@ main:
   #  url: https://zainaftab2225.github.io/
   #  - title: "About"
   #  url: /about/
+  - title: "Video Games"
+    url: /videogames/
+  - title: "Resume"
+    url: /resume/
   - title: "Computer Science"
     url: /computerscience/
   - title: "US History"
@@ -14,10 +18,7 @@ main:
     url: /criminology/
   - title: "Gender Studies"
     url: /genderstudies/
-  - title: "Video Games"
-    url: /videogames/
-  - title: "Resume"
-    url: /resume/
+
   # - title: "CSS Posts"
   #  url: /css-page/
 
