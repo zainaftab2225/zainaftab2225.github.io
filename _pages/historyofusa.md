@@ -7,5 +7,5 @@ collection: historyofusa
 entries_layout: list
 classes: wide
 header:
-  image: "/images/home_banner.jpg"
+  image: "/images/historyofusa_banner.jpg"
 ---
