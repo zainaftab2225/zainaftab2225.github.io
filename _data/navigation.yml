@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "Home"
-    url: https://zainaftab2225.github.io/
-  - title: "About"
-    url: /about/
-  - title: "Resume"
-    url: /resume/
-  - title: "Video Games"
-    url: /videogames/
+  # - title: "Home"
+  #  url: https://zainaftab2225.github.io/
+  #  - title: "About"
+  #  url: /about/
   - title: "Computer Science"
     url: /computerscience/
   - title: "US History"
@@ -18,8 +14,12 @@ main:
     url: /criminology/
   - title: "Gender Studies"
     url: /genderstudies/
-  - title: "CSS Posts"
-    url: /css-page/
+  - title: "Video Games"
+    url: /videogames/
+  - title: "Resume"
+    url: /resume/
+  # - title: "CSS Posts"
+  #  url: /css-page/
 
 
   # - title: "About"
