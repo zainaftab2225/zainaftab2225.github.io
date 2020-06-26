@@ -7,5 +7,5 @@ collection: criminology
 entries_layout: list
 classes: wide
 header:
-  image: "/images/law_banner.jpg"
+  image: "/images/banners/law_banner.jpg"
 ---

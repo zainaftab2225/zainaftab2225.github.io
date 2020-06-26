@@ -7,5 +7,5 @@ collection: css
 entries_layout: grid
 classes: wide
 header:
-  image: "/images/css_banner_1.jpg"
+  image: "/images/banners/css_banner_1.jpg"
 ---

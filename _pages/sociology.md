@@ -4,8 +4,8 @@ layout: collection
 author_profile: true
 permalink: /sociology/
 collection: sociology
-entries_layout: list
+entries_layout: grid
 classes: wide
 header:
-  image: "/images/sociology_banner.jpg"
+  image: "/images/banners/sociology_banner.jpg"
 ---

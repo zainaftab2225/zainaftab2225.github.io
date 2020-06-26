@@ -7,5 +7,5 @@ collection: computerscience
 entries_layout: list
 classes: wide
 header:
-  image: "/images/computerscience_banner.jpg"
+  image: "/images/banners/computerscience_banner.jpg"
 ---
