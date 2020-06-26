@@ -7,5 +7,5 @@ collection: genderstudies
 entries_layout: list
 classes: wide
 header:
-  image: "/images/home_banner.jpg"
+  image: "/images/gender_banner.jpg"
 ---
