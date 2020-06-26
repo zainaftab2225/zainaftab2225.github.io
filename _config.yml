@@ -273,6 +273,26 @@ collections:
   videogames:
       output: true
       permalink: /:collection/:path/
+
+  computerscience:
+      output: true
+      permalink: /:collection/:path/
+
+  sociology:
+      output: true
+      permalink: /:collection/:path/
+
+  historyofusa:
+      output: true
+      permalink: /:collection/:path/
+
+  genderstudies:
+      output: true
+      permalink: /:collection/:path/
+
+  criminology:
+      output: true
+      permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -301,6 +321,61 @@ defaults:
   - scope:
       path: ""
       type: videogames
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+
+    # _computerscience
+  - scope:
+      path: ""
+      type: computerscience
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+
+  # _historyofusa
+  - scope:
+      path: ""
+      type: historyofusa
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+
+  # _sociology
+  - scope:
+      path: ""
+      type: sociology
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+
+  # _criminology
+  - scope:
+      path: ""
+      type: criminology
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+
+  # _genderstudies
+  - scope:
+      path: ""
+      type: genderstudies
     values:
       layout: single
       author_profile: true
