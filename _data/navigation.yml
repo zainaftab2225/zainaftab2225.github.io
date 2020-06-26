@@ -9,15 +9,15 @@ main:
   - title: "Video Games"
     url: /videogames/
   - title: "Computer Science"
-    url: /css-page/
+    url: /computerscience/
   - title: "US History"
-    url: /css-page/
+    url: /historyofusa/
   - title: "Sociology"
-    url: /css-page/
+    url: /sociology/
   - title: "Criminology"
-    url: /css-page/
+    url: /criminology/
   - title: "Gender Studies"
-    url: /css-page/
+    url: /genderstudies/
   - title: "CSS Posts"
     url: /css-page/
 
