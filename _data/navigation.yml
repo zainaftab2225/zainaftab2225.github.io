@@ -4,10 +4,10 @@ main:
     url: https://zainaftab2225.github.io/
   - title: "About"
     url: /about/
-  - title: "Video Games"
-    url: /videogames/
   - title: "Resume"
     url: /resume/
+  - title: "Video Games"
+    url: /videogames/
   - title: "Computer Science"
     url: /css-page/
   - title: "US History"
