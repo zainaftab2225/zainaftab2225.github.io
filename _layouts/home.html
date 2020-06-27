@@ -20,7 +20,7 @@ about video games. Feel free to browse my website. Thanks for stopping by.
 
 
 
-{% assign videogame_entries = site.videogames %}
+{% assign videogame_entries = site.videogames sort_by='date' sort_order='reverse' %}
 {% if include.sort_by == 'title' %}
   {% if include.sort_order == 'reverse' %}
     {% assign videogame_entries = videogame_entries | sort: 'title' | reverse %}
