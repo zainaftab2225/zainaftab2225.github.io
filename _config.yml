@@ -273,7 +273,6 @@ collections:
   videogames:
       output: true
       sort_by: date
-      sort_order: reverse
       permalink: /:collection/:path/
 
   computerscience:
