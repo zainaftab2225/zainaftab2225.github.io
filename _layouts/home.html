@@ -17,3 +17,8 @@ about video games. Feel free to browse my website. Thanks for stopping by.
 <div class="entries-list">
   {% include documents-collection.html collection='videogames' type='list' sort_by='date' sort_order='reverse' %}
 </div>
+
+
+{% for videogame in site.videogames %}
+  <h2>{{ videogame.title }}</h2>
+{% endfor %}
