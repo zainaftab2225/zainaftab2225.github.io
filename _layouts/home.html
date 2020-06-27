@@ -20,7 +20,23 @@ about video games. Feel free to browse my website. Thanks for stopping by.
 
 
 
-{% for videogame in site.videogames %}
-  {% include archive-single.html %}
-  <h2>{{ videogame.title }}</h2>
-{% endfor %}
+{% assign videogame_entries = site.videogames %}
+{% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign videogame_entries = videogame_entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign videogame_entries = videogame_entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign videogame_entries = videogame_entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign videogame_entries = videogame_entries | sort: 'date' %}
+  {% endif %}
+{% endif %}
+
+{%- for post in videogame_entries -%}
+  {%- unless post.hidden -%}
+    {% include archive-single.html %}
+  {%- endunless -%}
+{%- endfor -%}
