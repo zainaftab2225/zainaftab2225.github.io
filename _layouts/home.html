@@ -14,5 +14,5 @@ about video games. Feel free to browse my website. Thanks for stopping by.
 
 
 <h1 class="archive__subtitle">Recent Videogames Posts</h1>
-{% assign post = site.videogames.[-1] %}
+{% assign post = site.videogames.last %}
 {% include archive-single.html sort_by='date' sort_order='reverse' %}
