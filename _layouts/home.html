@@ -15,10 +15,12 @@ about video games. Feel free to browse my website. Thanks for stopping by.
 
 <h1 class="archive__subtitle">Recent Videogames Posts</h1>
 <div class="entries-list">
-  {% include documents-collection.html collection='videogames' type='single' sort_by='date' sort_order='reverse' %}
+  {% include documents-collection.html collection='videogames' type='list' sort_by='date' sort_order='reverse' %}
 </div>
 
 
+
 {% for videogame in site.videogames %}
+  {% include archive-single.html %}
   <h2>{{ videogame.title }}</h2>
 {% endfor %}
