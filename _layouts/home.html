@@ -7,12 +7,27 @@ You'll find posts about subjects like the History of United States, Sociology, C
 about video games. Feel free to browse my website. Thanks for stopping by.
 </div>
 
-<h1 class="archive__subtitle">Recent CSS Posts</h1>
-<div class="entries-list">
-  {% include documents-collection.html collection='css' type='list' sort_by='date' sort_order='reverse' %}
-</div>
 
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Video Game Post" }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_videogame_post | default: "Recent Video Game Post" }}</h3>
 {% assign post = site.videogames.last %}
+{% include archive-single.html sort_by='date' sort_order='reverse' %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_historyofusa_post | default: "Recent History of USA Post" }}</h3>
+{% assign post = site.historyofusa.last %}
+{% include archive-single.html sort_by='date' sort_order='reverse' %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_sociology_post | default: "Recent Sociology Post" }}</h3>
+{% assign post = site.sociology.last %}
+{% include archive-single.html sort_by='date' sort_order='reverse' %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_criminology_post | default: "Recent Criminology Post" }}</h3>
+{% assign post = site.criminology.last %}
+{% include archive-single.html sort_by='date' sort_order='reverse' %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_genderstudies_post | default: "Recent Gender Studies Post" }}</h3>
+{% assign post = site.genderstudies.last %}
+{% include archive-single.html sort_by='date' sort_order='reverse' %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_cs_post | default: "Recent Computer Science Post" }}</h3>
+{% assign post = site.computerscience.last %}
 {% include archive-single.html sort_by='date' sort_order='reverse' %}
