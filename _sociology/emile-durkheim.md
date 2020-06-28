@@ -7,10 +7,16 @@ date: 2020-06-28
 *"To love society is to love something beyond us and something in ourselves."*
 
 ### Summary
+- French sociologist who is one of the founders of Sociology
+- Discussed how external human patterns influences the individual known as **social facts**
+- A **structural functionalist** who considered crime to be a normal part of society
+- Introduced concept of **Anomie**: a condition in which society provides little moral guidance to the individual
+- Talked about how religion makes people come together and have solidarity
+- Defined **collective conscious** as traditions and social norms that bind people together
+- Talked about **mechanical solidarity** and **organic solidarity**
+- Introduced the **theory of suicide**
 
 ![image-center](/images/sociology/emile_durkheim_1.jpg){: .align-center}
-
-
 
 ### Introduction
 
