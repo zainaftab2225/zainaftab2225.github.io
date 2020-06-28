@@ -4,6 +4,8 @@ excerpt: “To love society is to love something beyond us and something in ours
 date: 2020-06-28
 ---
 
+*"To love society is to love something beyond us and something in ourselves."*
+
 ### Summary
 
 ![image-center](/images/sociology/emile_durkheim_1.jpg){: .align-center}
@@ -42,7 +44,22 @@ Compared to traditional societies, modern societies impose less restrictions on 
 
 ### Religion and Social Solidarity
 
-### Organic Society and Mechanical Society
+Durkheim considered religion to be the initial source of social solidarity and collective life. He described religion to act as a differentiating force between right and wrong. It allows man to separate sacred things from material objects. When humans participate in sacred ceremonies, it elevates the position of man in society. Without religion, there would be no distinction of good and bad. Social and cultural norms would cease to exist.
+
+Durkheim identified three major functions of religion:
+1. Religion unites people, promoting social cohesion.
+2. Religion encourages people to obey cultural norms, promoting conformity.
+3. Religion gives meaning and purpose to life.
+
+### Mechanical Solidarity and Organic Solidarity
+
+Like Marx and Weber, Durkheim lived through the rapid social change that swept across Europe during the nineteenth century as the Industrial Revolution unfolded. But Durkheim offered his own understanding of this change.
+
+Durkheim defines **collective conscious** as traditions and social norms that bind people together. Durkheim assumes that humans are inherently egoistic, while "collective consciousness" (i.e. norms, beliefs, and values) forms the moral basis of the society, resulting in social integration. In preindustrial societies, Durkheim stated that this collective conscious is so strong that the community moves quickly to punish anyone who challenges the age-old traditions. Durkheim used the term **mechanical solidarity** to refer to these social bonds because these bonds were 'mechanical' - people are locked together with an automatic sense of belonging together and acting similar without actually questioning why they are doing it in the first place.
+
+In industrial societies, however, these social bonds grow weaker and weaker. As a result, people are much less bound by tradition but rather interdependence due to specialization. People become dependent on each other to do different tasks and as a result, make new social bonds that feel 'organic'. The solidarity which was once rooted in likeness is now based on differences who find that their specialized work — as plumbers, college students, midwives, or sociology instructors — makes them rely on other people for most of their daily needs. Durkheim called this type of solidarity, **organic solidarity**.
+
+For Durkheim, a key to change in society was the division of labor and specialization. As members of modern societies, we depend more and more on people we trust less and less. Therefore, modern societies rest less on *moral consensus* and more on *functional interdependence*. However, this leads to what is called the **Durkheim Dilemma** - modern societies have personal freedom at the cost of declining morality and the risk of increasing anomie. Nevertheless, Durkheim was optimistic: he thought personal freedom was important and to reduce the risk of increasing anomie, people would create new laws and norms.
 
 ### Theory of Suicide
 
@@ -53,3 +70,15 @@ According to Durkheim, the two main factors which influence suicide are *positiv
 4. **Fatalistic Suicide** occurs due to extreme regulation and extreme positive integration. In these societies individuals experience a high level of outside control. These societies have an overabundance of laws or norms resulting in very little individualism. When there is no appeal to laws, then the individual decides to take his own life rather than face so much regulation. An example of fatalistic suicide is when a slave commits suicide to escape the control of his or her owner. A woman who is stuck in a loveless, abusive marriage with a controlling husband who decides to take her own life is also an example of fatalistic suicide.
 
 ### Criticism
+
+- Durkheim stated that the individual is influenced by the external society through social facts but they are not always external, they may also be internal;
+- If the social facts force the individual to behave in a certain way, then individuals would be violate and go against the society;
+- Durkheim focuses on the society and not the individual.
+
+### Bibliography
+
+1. Suicide: A Study in Sociology
+2. The Rules of Sociological Methods
+3. The Elementary Forms of the Religious Life
+4. The Division of Labor in Society
+5. Moral Education
