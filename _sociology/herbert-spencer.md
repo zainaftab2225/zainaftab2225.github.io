@@ -22,12 +22,12 @@ Spencer was born in England (1820-1903) and is known as the second founder of so
 ### Theory of Evolution
 
 According to Spencer, every society evolves from:
-- simple --> complex;
-- homogeneous --> heterogeneous.
+- Simple --> Complex;
+- Homogeneous --> Heterogeneous.
 
 Spencer divided evolution into two categories:
-1. simplicity --> complexity;
-2. militant society --> industrial society.
+1. Simplicity --> Complexity;
+2. Militant society --> Industrial society.
 
 #### 1. Simple to Complex Evolution
 
