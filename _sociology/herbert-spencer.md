@@ -38,39 +38,18 @@ In contrast, **industrial societies** have voluntary cooperation with a democrat
 | Militant Society | Industrial Society |
 |------- | ---------|
 | Defensive/Offensive | Peaceful |
-| Compulsory cooperation | Voluntary cooperation |
-| State over individual | Individual over state |
-| Public organizations | Individual over state |
-| Centralized state | Individual over state |
-| Protectionism | Individual over state |
-| Economic autonomy | Individual over state |
-| State over individual | Individual over state |
-| State over individual | Individual over state |
+| Compulsory Cooperation | Voluntary cooperation |
+| State over Individual | Individual over state |
+| Public Organizations | Private Organizations |
+| Centralized State | Decentralized State |
+| Protectionism | Free Market |
+| Economic Autonomy | Economic Interdependence |
+| Patriotism | Independence |
+| Inheritance of Positions | Movement between Positions |
+| Inheritance of Religion | Less Religious Importance |
+| Inheritance of Hierarchy | Less Importance of Hierarchy |
 
 
-<table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-</tr>
-<tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
-</tr>
-</tbody>
-</table>
 
 
 ### Organic Analogy
