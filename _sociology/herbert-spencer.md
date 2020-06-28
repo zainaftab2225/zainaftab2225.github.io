@@ -34,12 +34,12 @@ Spencer divided evolution into two categories:
 Spencer said that there are 4 stages to evolution:
 1. **Simple society** is the most basic society made up of the family unit;
 2. **Compound society** is a large number of simple societies that form a *clan*;
-3. **Doubly Compound society** is a large number of compound societies or colans that come together to form a *tribe*;
+3. **Doubly Compound society** is a large number of compound societies or clans that come together to form a *tribe*;
 4. **Trebly Compound society** is made up of a large number of tribes that come together to form a *nation state*.
 
 #### 2. Militant to Industrial Evolution
 
-In **militant societies**, units are forced to cooperat and obey the commands of the superior officer. Militant societies have a centralized government structure which dominates over the organizations of the society.
+In **militant societies**, units are forced to cooperate and obey the commands of the superior officer. Militant societies have a centralized government structure which dominates over the organizations of the society.
 
 In contrast, **industrial societies** have voluntary cooperation with a democratic and devolved government structure. The state plays very little role in an industrial society.
 
@@ -65,15 +65,15 @@ Spencer presented the organic analogy where he compared the human society to a b
 
 Spencer took the biological evolution described by Charles Darwin and applied it to sociology.
 
-Soial Darwinism is based on two principles:
+Social Darwinism is based on two principles:
 1. Survival of the Fittest;
 2. Principles of Non-interference.
 
-#### Survivial of the Fittest
+#### 1. Survival of the Fittest
 
 Spencer believed that nature automatically removes its weaker parts and so does society. People who are poor, dumb, disabled are less fit and should be left behind for the greater progress of society.
 
-#### Principle of Non-interference
+#### 2. Principle of Non-interference
 
 Spencer supported *laissez-faire* policies of the state and believed the job of the state was to protect itself from any external threats. He believed that the state should not waste money on social institutions like education or on the poor. In his eyes, an ideal society would be where individuals pursued their interests without any hinderance by the state.
 
