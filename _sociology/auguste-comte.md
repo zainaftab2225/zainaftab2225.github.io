@@ -1,8 +1,17 @@
 ---
 title: "Auguste Comte"
-excerpt: “To love society is to love something beyond us ad something in ourselves.”
+excerpt: “Men are not allowed to think freely about chemistry and biology: why should they be allowed to think freely about political philosophy?”
 date: 2020-06-28
 ---
+*"Men are not allowed to think freely about chemistry and biology: why should they be allowed to think freely about political philosophy?"*
+
+### Summary
+-French sociology who is known as the 'founder of sociology';
+-Introduced 'Law of Three Stages';
+-Discussed what keeps society together, Social Statics and what changes society, Social Dynamics;
+-Started a 'Religion of Humanity' that focuses solely on morality.
+
+![image-center](/images/sociology/auguste_comte_1.jpg){: .align-center}
 
 ### Introduction
 
@@ -38,8 +47,27 @@ Comte believed that society operates according to its own laws, just like the ph
 
 ### Social Statics and Social Dynamics
 
+Comte was a structural functionalist who pointed out a need to keep society together when many traditions were breaking down during the industrial revolution. **Static sociology** deals with order and how it is maintained: social groups, social institutions and organizations.
+
+Comte also wanted to study the social change in the society and labeled it **social dynamics**. He considered change could be moral, political and economic. If society changes naturally over time, then it is called *evolution*. If the social change is brought by force, then it is called a *revolution*. However, if it is according to the people's will, then it is called *social progress*.
+
 ### The Religion of humanity
+
+Comte also developed the *religion of humanity*. It is a secular religion that believes traditional religion is not required to hold societies together but rather with the power of moral force alone.
+
+A calendar was also created called the *positivist calendar* named after history's greatest influencers. Each day was dedicated to a thinker.
 
 ### Criticism
 
+- Comte stated that humans would never learn the chemical composition of other planers which has been proven wrong;
+- Comte states that when the transition is made from the metaphysical stage to the positivist stage, the force behind the metaphysical stage is absent. How can the force that helped reach the positivist stage be absent?
+- Philosophers such as William Paley disagree with Comte's purely scientific world where God is non-existent. Paley argues the creation of the world and all its precise functions clearly reflects the existence of a God.
+
 ### Bibliography
+
+1. A General View of Positivism
+2. The Catechism of Positive Religion
+3. System of Positive Polity
+4. Auguste Comte and Positivism
+5. Introduction to Positive Philosophy
+6. Early Political Writings
