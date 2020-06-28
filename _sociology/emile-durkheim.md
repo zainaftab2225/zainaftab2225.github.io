@@ -42,7 +42,7 @@ Durkheim also talked about the concept of **function**. Society should be analyz
 - The state provides public education for children. The family of the children pays taxes, which the state uses for public education. The children who learn from public education go on to become law-abiding and working citizens, who pay taxes to support the state. If any of these functions are disrupted, then the society as a whole will be affected;
 - Crime and delinquent behavior also helps promote stability in the society as it leads to a reaction from the victims. If there are enough reactions from the members of the society, this leads to a common consensus that a certain action is considered harmful. Thus, it is considered morally wrong and a law is established against it resulting in stability. Durkheim concluded that crime is "normal" for the basic of reasons: A society could not exist without it.
 
-### Personality: How Society Influences Us
+### Personality and Society
 
 Durkheim also believed that society helped people form their personalities. He believed that human beings have endless wants and are in a constant danger of being overpowered by our own desires; society restrains humans from these endless wants and provides social regulation. As he put it, “The more one has, the more one wants, since satisfactions received only stimulate instead of filling needs”.
 
@@ -70,10 +70,23 @@ For Durkheim, a key to change in society was the division of labor and specializ
 ### Theory of Suicide
 
 According to Durkheim, the two main factors which influence suicide are *positive integration* in a society and *negative integration* in a society. The four types of suicide that Durkheim explained are:
-1. **Egoistic Suicide** occurs when there is negative integration and group solidarity grows weak. The individual believes that they are superior to the society and as a result, stops taking interest in the matters of the society or family. The individual feels isolated from society and considers life and death to be equal. This is a situation where social norms fail to put appropriate pressure on the members of society. Such suicide is found more in Organic societies than Mechanical societies.
-2. **Anomic Suicide** also occurs when there is negative integration because society undergoes rapid changes. This results in the norms and manners of society being broken and individuals are unable to adjust themselves which results in a normative gap. Social laws are considered weak in this situation since they fail to control the behavior of the individual. Society tends to fall into despair and there is uncertainty about the future. Anomic suicide is rooted in societies with a lack of regulation. Lawlessness prevails, business slows down, projects get cancelled or postponed, marriages are postponed. Social norms are shattered. Disorganization is prevalent.
-3. **Altruistic Suicide** occurs when the society has a very high degree of group solidarity and positive integration. The people consider the interests of the group to have higher priority over the interests of the individual. An example would be the old people in northern cold regions of Tundra who kill themselves so that they would not be a burden on the limited resources of the society. In modern society soldiers who willingly register for war are committing Altruistic suicide. In religion this idea of dying for the greater cause like Jihad in Muslims is also found.
-4. **Fatalistic Suicide** occurs due to extreme regulation and extreme positive integration. In these societies individuals experience a high level of outside control. These societies have an overabundance of laws or norms resulting in very little individualism. When there is no appeal to laws, then the individual decides to take his own life rather than face so much regulation. An example of fatalistic suicide is when a slave commits suicide to escape the control of his or her owner. A woman who is stuck in a loveless, abusive marriage with a controlling husband who decides to take her own life is also an example of fatalistic suicide.
+1. Egostic suicide
+2. Anomic suicide
+3. Altruistic suicide
+4. Fatalistic suicide
+
+#### 1. Egoistic Suicide
+
+Egoistic suicide occurs when there is negative integration and group solidarity grows weak. The individual believes that they are superior to the society and as a result, stops taking interest in the matters of the society or family. The individual feels isolated from society and considers life and death to be equal. This is a situation where social norms fail to put appropriate pressure on the members of society. Such suicide is found more in Organic societies than Mechanical societies.
+
+#### 2. Anomic Suicide
+
+Anomic Suicide also occurs when there is negative integration because society undergoes rapid changes. This results in the norms and manners of society being broken and individuals are unable to adjust themselves which results in a normative gap. Social laws are considered weak in this situation since they fail to control the behavior of the individual. Society tends to fall into despair and there is uncertainty about the future. Anomic suicide is rooted in societies with a lack of regulation. Lawlessness prevails, business slows down, projects get cancelled or postponed, marriages are postponed. Social norms are shattered. Disorganization is prevalent.
+#### 3. Altruistic Suicide
+Altruistic Suicide occurs when the society has a very high degree of group solidarity and positive integration. The people consider the interests of the group to have higher priority over the interests of the individual. An example would be the old people in northern cold regions of Tundra who kill themselves so that they would not be a burden on the limited resources of the society. In modern society soldiers who willingly register for war are committing Altruistic suicide. In religion this idea of dying for the greater cause like Jihad in Muslims is also found.
+
+#### 4. Fatalistic Suicide
+Fatalistic Suicide occurs due to extreme regulation and extreme positive integration. In these societies individuals experience a high level of outside control. These societies have an overabundance of laws or norms resulting in very little individualism. When there is no appeal to laws, then the individual decides to take his own life rather than face so much regulation. An example of fatalistic suicide is when a slave commits suicide to escape the control of his or her owner. A woman who is stuck in a loveless, abusive marriage with a controlling husband who decides to take her own life is also an example of fatalistic suicide.
 
 ### Criticism
 
