@@ -65,7 +65,7 @@ Durkheim identified three major functions of religion:
 
 ### Mechanical Solidarity and Organic Solidarity
 
-Like Marx and Weber, Durkheim lived through the rapid social change that swept across Europe during the nineteenth century as the Industrial Revolution unfolded. But Durkheim offered his own understanding of this change.
+- Like Marx and Weber, Durkheim lived through the rapid social change that swept across Europe during the nineteenth century as the Industrial Revolution unfolded. But Durkheim offered his own understanding of this change.
 
 - Durkheim defines **Collective Conscious** as traditions and social norms that bind people together. Durkheim assumes that humans are inherently egoistic. Collective consciousness (i.e. norms, beliefs, and values) forms the moral basis of the society resulting in social integration.
 - In preindustrial societies, Durkheim stated that this collective conscious is so strong that the community moves quickly to punish anyone who challenges the age-old traditions. Durkheim used the term **Mechanical Solidarity** to refer to these social bonds because these bonds were 'mechanical' - people are locked together with an automatic sense of belonging together and acting similar without actually questioning why they are doing it in the first place.
