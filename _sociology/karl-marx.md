@@ -40,6 +40,8 @@ date: 2020-06-29
 - Contrary to many people's beliefs, Marx was motivated by compassion and wanted to create a more just social order.
 - Social conflict exists in many ways but Marx focused on **class conflict**.
 
+![image-center](/images/sociology/superstructure_1.jpg){: .align-center}
+
 #### Society and Production
 
 - Marx observed that industrialization of Europe turned a small population into capitalists or the '**bourgeoisie**'.
