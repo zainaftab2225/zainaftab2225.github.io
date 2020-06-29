@@ -7,14 +7,14 @@ date: 2020-06-28
 *"To love society is to love something beyond us and something in ourselves."*
 
 ### Summary
-- French sociologist who is one of the Founders of Sociology;
-- Discussed how external human patterns influences the individual known as **Social Facts**;
-- A **Structural Functionalist** who considered crime to be a normal part of society;
-- Introduced concept of **Anomie**: a condition in which society provides little moral guidance to the individual;
-- Talked about how religion makes people come together and have solidarity;
-- Defined **Collective Conscious** as traditions and social norms that bind people together;
-- Talked about **Mechanical Solidarity** and **Organic Solidarity**;
-- Introduced the **Theory of Suicide**.
+- French sociologist who is one of the Founders of Sociology
+- Discussed how external human patterns influences the individual known as **Social Facts**
+- **Structural Functionalist** who considered crime to be a normal part of society
+- Introduced concept of **Anomie**: a condition in which society provides little moral guidance to the individual
+- Discussed how religion makes people come together and have solidarity
+- Defined **Collective Conscious** as traditions and social norms that bind people together
+- Talked about **Mechanical Solidarity** and **Organic Solidarity**
+- Introduced the **Theory of Suicide**
 
 ![image-center](/images/sociology/emile_durkheim_1.jpg){: .align-center}
 
@@ -33,15 +33,15 @@ date: 2020-06-28
 - Durkheim realized that society is more than the individual who compose it. It was present before us, it shapes our lifestyle and it will remain after we pass on.
 - Patterns of human behavior - cultural norms, values, beliefs - which influence the individual are known as **Social Facts**. In other words, social facts are anything in society that puts external pressure on a member of society to act in a certain way.
 - As society is bigger than us, it has the power to guide our thoughts and actions. Some examples are:
-  - A classroom of college students taking a math exam;
-  - A family gathered around a table sharing a meal;
-  - People quietly waiting their turn in a doctor’s office;
+  - A classroom of college students taking a math exam.
+  - A family gathered around a table sharing a meal.
+  - People quietly waiting their turn in a doctor’s office.
   - The different music people listen to in different parts of the world.
 
 ### Durkheim and Structural Functionalism
 
 - Durkheim also talked about the concept of **Function**. Society should be analyzed and described in terms of functions. Society is a system of interrelated parts where no one part can function without the other. These parts make up the whole of society. If one part changes, it has an impact on society as a whole. Functionalism emphasizes a societal equilibrium. Based on Durkheim's perspective, some examples are:
-- The state provides public education for children. The family of the children pays taxes, which the state uses for public education. The children who learn from public education go on to become law-abiding and working citizens, who pay taxes to support the state. If any of these functions are disrupted, then the society as a whole will be affected;
+- The state provides public education for children. The family of the children pays taxes, which the state uses for public education. The children who learn from public education go on to become law-abiding and working citizens, who pay taxes to support the state. If any of these functions are disrupted, then the society as a whole will be affected.
 - Crime and delinquent behavior also helps promote stability in the society as it leads to a reaction from the victims. If there are enough reactions from the members of the society, this leads to a common consensus that a certain action is considered harmful. Thus, it is considered morally wrong and a law is established against it resulting in stability. Durkheim concluded that crime is "normal" for the basic of reasons: A society could not exist without it.
 
 ### Personality and Society

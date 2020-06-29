@@ -8,10 +8,10 @@ date: 2020-06-28
 
 ### Summary
 
-- Spencer was a British sociologist;
-- He was a 'Structural Functionalist' and an advocate of the 'Evolutionary Theory';
-- Presented the 'Organic Analogy' and concept of 'Social Darwinism';
-- Advocated 'laissez-faire' politics and non-interference.
+- Spencer was a British sociologist
+- He was a **Structural Functionalist** and an advocate of the **Evolutionary Theory**
+- Presented the **Organic Analogy** and concept of **Social Darwinism**
+- Advocated **Laissez-faire** politics and **Non-interference**
 
 ![image-center](/images/sociology/herbert_spencer_1.jpg){: .align-center}
 
@@ -26,19 +26,19 @@ date: 2020-06-28
 ### Theory of Evolution
 
 According to Spencer, every society evolves from:
-- Simple --> Complex;
-- Homogeneous --> Heterogeneous.
+- Simple --> Complex
+- Homogeneous --> Heterogeneous
 
 Spencer divided evolution into two categories:
-1. Simplicity --> Complexity;
-2. Militant society --> Industrial society.
+1. Simplicity --> Complexity
+2. Militant society --> Industrial society
 
 #### 1. Simple to Complex Evolution
 
 Spencer said that there are 4 stages to evolution:
-1. **Simple society** is the most basic society made up of the family unit;
-2. **Compound society** is a large number of simple societies that form a *clan*;
-3. **Doubly Compound society** is a large number of compound societies or clans that come together to form a *tribe*;
+1. **Simple society** is the most basic society made up of the family unit.
+2. **Compound society** is a large number of simple societies that form a *clan*.
+3. **Doubly Compound society** is a large number of compound societies or clans that come together to form a *tribe*.
 4. **Trebly Compound society** is made up of a large number of tribes that come together to form a *nation state*.
 
 #### 2. Militant to Industrial Evolution
@@ -70,8 +70,8 @@ Spencer presented the organic analogy where he compared the human society to a b
 Spencer took the biological evolution described by Charles Darwin and applied it to sociology.
 
 Social Darwinism is based on two principles:
-1. Survival of the Fittest;
-2. Principles of Non-interference.
+1. Survival of the Fittest
+2. Principles of Non-interference
 
 #### 1. Survival of the Fittest
 
@@ -88,7 +88,7 @@ Spencer supported *laissez-faire* policies of the state and believed the job of 
 - Spencer's advocacy of laissez-faire politics and survival of the fittest is considered callous and dangerous by many people.
 
 ### Bibliography
-1. The Proper Sphere of Government;
-2. Social Statics;
-3. Education: Intellectual, Moral and Physical;
-4. The Synthetic Philosophy.
+1. The Proper Sphere of Government
+2. Social Statics
+3. Education: Intellectual, Moral and Physical
+4. The Synthetic Philosophy
