@@ -29,7 +29,7 @@ date: 2020-06-29
   - The challenging idea is called the **anti-thesis**.
   - When these ideas clash, a **synthesis** is produced which is turn becomes the thesis and then is challenged again by a new anti-thesis. This is how history moves forward through contradictions.
 - In ancient Greece, there was a big debate on *idealism vs. materialism*. Does mind create reality or does reality create the mind?
-  - Most prevalent form of idealism is religion - we exist as a reflection of God. *"I think, there I am"* by Rene Descartes is another example of idealism.
+  - Most prevalent form of idealism is religion - we exist as a reflection of God. *"I think, therefore I am"* by Rene Descartes is another example of idealism.
   - However, Marx was a follower of materialism - *"I am, therefore I think"*. Friedrich Engels explained it further that thought is inseparable from matter that thinks.
   - Marx combined these two concepts of dialectical and materialism. Material reality moves forward through contradictions.
 
