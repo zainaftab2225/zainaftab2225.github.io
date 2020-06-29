@@ -50,9 +50,9 @@ Comte believed that society operates according to its own laws, just like the ph
 - Comte was a structural functionalist who pointed out a need to keep society together when many traditions were breaking down during the industrial revolution. **Static sociology** deals with order and how it is maintained: social groups, social institutions and organizations.
 
 - Comte also wanted to study the social change in the society and labeled it **social dynamics**. He considered change could be moral, political and economic. Society changes:
-  - If society changes naturally over time, then it is called *evolution*;
-  - If the social change is brought by force, then it is called a *revolution*;
-  - If it is according to the people's will, then it is called *social progress*.
+  - If society changes naturally over time, then it is called *Evolution*;
+  - If the social change is brought by force, then it is called a *Revolution*;
+  - If it is according to the people's will, then it is called *Social Progress*.
 
 ### The Religion of humanity
 

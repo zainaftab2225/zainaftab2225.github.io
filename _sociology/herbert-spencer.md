@@ -17,7 +17,11 @@ date: 2020-06-28
 
 ### Introduction
 
-Spencer was born in England (1820-1903) and is known as the second founder of sociology. Spencer was also a *structural functionalist* but also advocated the *evolutionary theory*. While Comte had actively participated to change society by introducing a religion, Spencer believed sociologists should not guide social reform. He believed that it would interfere with the natural process of evolution of a society. Spencer coined the term "survival of the fittest". He did armchair philosophy (like Comte) instead of conducting scientific research.
+- Spencer was born in England (1820-1903) and is known as the second founder of sociology.
+- Spencer was also a *structural functionalist* but also advocated the *evolutionary theory*.
+- While Comte had actively participated to change society by introducing a religion, Spencer believed sociologists should not guide social reform. He believed that it would interfere with the natural process of evolution of a society.
+- Spencer coined the term "survival of the fittest".
+- He did armchair philosophy (like Comte) instead of conducting scientific research.
 
 ### Theory of Evolution
 
@@ -39,9 +43,9 @@ Spencer said that there are 4 stages to evolution:
 
 #### 2. Militant to Industrial Evolution
 
-In **militant societies**, units are forced to cooperate and obey the commands of the superior officer. Militant societies have a centralized government structure which dominates over the organizations of the society.
+- In **militant societies**, units are forced to cooperate and obey the commands of the superior officer. Militant societies have a centralized government structure which dominates over the organizations of the society.
 
-In contrast, **industrial societies** have voluntary cooperation with a democratic and devolved government structure. The state plays very little role in an industrial society.
+- In contrast, **industrial societies** have voluntary cooperation with a democratic and devolved government structure. The state plays very little role in an industrial society.
 
 | Militant Society | Industrial Society |
 |------- | ---------|
