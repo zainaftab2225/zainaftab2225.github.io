@@ -20,9 +20,9 @@ date: 2020-06-28
 
 ### Introduction
 
-Emile Durkheim (1858-1917) was a French sociologist who had two major professional goals:
-1. To get sociology recognized as a separate discipline;
-2. To show how social forces affect peoples behaviors.
+- Emile Durkheim (1858-1917) was a French sociologist who had two major professional goals:
+  1. To get sociology recognized as a separate discipline;
+  2. To show how social forces affect peoples behaviors.
 
 - He achieved the first goal in 1887 when the University of Bordeaux awarded him the world’s first academic appointment in sociology.
 - To accomplish his second goal, Durkheim conducted rigorous research about the suicide rates of European countries. He found a pattern that every country had a stable suicide rate year after year. He also found that males, Protestants and the unmarried are more likely to commit suicide. He concluded that members of these groups lack **Social Integration** and have fewer social bonds as they are comparatively more independent than the rest. Although many years have passed since Durkheim's research, the principle he uncovered about suicide rates still apply to modern society.
