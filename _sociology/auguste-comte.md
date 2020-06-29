@@ -6,18 +6,18 @@ date: 2020-06-28
 *"Men are not allowed to think freely about chemistry and biology: why should they be allowed to think freely about political philosophy?"*
 
 ### Summary
-- French sociology who is known as the 'founder of sociology';
-- Introduced 'Law of Three Stages';
-- Discussed what keeps society together, Social Statics and what changes society, Social Dynamics;
-- Started a 'Religion of Humanity' that focuses solely on morality.
+- French sociology who is known as the **Founder of Sociology**;
+- Introduced **Law of Three Stages**;
+- Discussed what keeps society together, **Social Statics** and what changes society, **Social Dynamics**;
+- Started a **Religion of Humanity** that focuses solely on morality.
 
 ![image-center](/images/sociology/auguste_comte_1.jpg){: .align-center}
 
 ### Introduction
 
-Auguste Comte (1798-1857) is known as the founder of sociology because he suggested to apply the scientific method, **positivism**, to study the social world. He coined the term 'Sociology' from the Greek word *logos* (study of) and the Latin word *socius* (being with others) in 1838.
-
-Whereas previous thinkers dating back to ancient Greece were more interested in an ideal society and how humanity might go about achieving it, Comte's major objective was to understand how the contemporary society actually operates.
+- Auguste Comte (1798-1857) is known as the founder of sociology because he suggested to apply the scientific method, **positivism**, to study the social world.
+- He coined the term 'Sociology' from the Greek word *logos* (study of) and the Latin word *socius* (being with others) in 1838.
+- Whereas previous thinkers dating back to ancient Greece were more interested in an ideal society and how humanity might go about achieving it, Comte's major objective was to understand how the contemporary society actually operates.
 
 ### Law of Three Stages
 
