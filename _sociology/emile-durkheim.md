@@ -76,7 +76,7 @@ Like Marx and Weber, Durkheim lived through the rapid social change that swept a
 ### Theory of Suicide
 
 According to Durkheim, the two main factors which influence suicide are *positive integration* in a society and *negative integration* in a society. The four types of suicide that Durkheim explained are:
-1. Egostic suicide
+1. Egoistic suicide
 2. Anomic suicide
 3. Altruistic suicide
 4. Fatalistic suicide
