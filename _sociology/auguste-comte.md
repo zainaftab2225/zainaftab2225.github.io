@@ -47,15 +47,18 @@ Comte believed that society operates according to its own laws, just like the ph
 
 ### Social Statics and Social Dynamics
 
-Comte was a structural functionalist who pointed out a need to keep society together when many traditions were breaking down during the industrial revolution. **Static sociology** deals with order and how it is maintained: social groups, social institutions and organizations.
+- Comte was a structural functionalist who pointed out a need to keep society together when many traditions were breaking down during the industrial revolution. **Static sociology** deals with order and how it is maintained: social groups, social institutions and organizations.
 
-Comte also wanted to study the social change in the society and labeled it **social dynamics**. He considered change could be moral, political and economic. If society changes naturally over time, then it is called *evolution*. If the social change is brought by force, then it is called a *revolution*. However, if it is according to the people's will, then it is called *social progress*.
+- Comte also wanted to study the social change in the society and labeled it **social dynamics**. He considered change could be moral, political and economic. Society changes:
+  - If society changes naturally over time, then it is called *evolution*;
+  - If the social change is brought by force, then it is called a *revolution*;
+  - If it is according to the people's will, then it is called *social progress*.
 
 ### The Religion of humanity
 
-Comte also developed the *religion of humanity*. It is a secular religion that believes traditional religion is not required to hold societies together but rather with the power of moral force alone.
+- Comte also developed the *religion of humanity*. It is a secular religion that believes traditional religion is not required to hold societies together but rather with the power of moral force alone.
 
-A calendar was also created called the *positivist calendar* named after history's greatest influencers. Each day was dedicated to a thinker.
+- A calendar was also created called the *positivist calendar* named after history's greatest influencers. Each day was dedicated to a thinker.
 
 ### Criticism
 
