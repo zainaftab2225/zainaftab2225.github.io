@@ -122,5 +122,6 @@ x = sin(0) + cos(0)
 number = input("Enter your number: ")
 number = float(number)
 
-number2 = float(input("Enter your second number: ")) # Can be done in one step
+# Can be done in one step
+number2 = float(input("Enter your second number: "))
 ```
