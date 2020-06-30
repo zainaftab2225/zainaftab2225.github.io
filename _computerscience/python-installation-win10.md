@@ -5,4 +5,4 @@ date: 2020-06-30
 
 ### Installing Python on Windows
 
-1. Go to ![link](https://www.python.org/downloads/).
+1. Go to this ![link](https://www.python.org/downloads/) .
