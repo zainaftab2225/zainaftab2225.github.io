@@ -5,4 +5,4 @@ date: 2020-06-30
 
 ### Installing Python on Windows
 
-is it working
+1. Go to ![link](https://www.python.org/downloads/).
