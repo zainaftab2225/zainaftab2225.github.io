@@ -1,5 +1,5 @@
 ---
-title: "Python Setup (Windows)"
+title: "Python Setup on Windows 10"
 date: 2020-06-30
 ---
 
