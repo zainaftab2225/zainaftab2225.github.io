@@ -88,6 +88,7 @@ print(x)
 ### Operators
 
 - Some operators are listed in the table below for reminders.
+- The official style guide for Python says that there should be a space before and after each operator.
 
 | Operator | Operation | Example Equation | Example Code | Output |
 |------- | ---------| ---------| ---------| ---------|
@@ -98,3 +99,27 @@ print(x)
 | // | floor division	| N/A |	a = 10 // 3 | 3 |
 | ** | power	| 2^3 | 	a = 2 ** 3 | 8 |
 | % | modulus | 	N/A |	a = 8 % 3 | 2 |
+
+### Trigonometric Functions
+
+- Math library is available for trigonometric functions: **math**. Example to import everything from math is given below.
+- Units are in radians.
+```python
+# Import the math library
+# This line is done only once, and at the very top
+# of the program.
+from math import *
+
+(10)
+x = sin(0) + cos(0)
+```
+### Input
+
+- Input in Python is text only; need to be converted to other data types.
+
+```python
+number = input("Enter your number: ")
+number = float(number)
+
+number2 = float(input("Enter your second number: ")) # Can be done in one step
+```
