@@ -6,10 +6,10 @@ date: 2020-06-28
 *"Men are not allowed to think freely about chemistry and biology: why should they be allowed to think freely about political philosophy?"*
 
 ### Summary
-- French sociology who is known as the **Founder of Sociology**
-- Introduced **Law of Three Stages**
-- Discussed what keeps society together, **Social Statics** and what changes society, **Social Dynamics**
-- Started a **Religion of Humanity** that focuses solely on morality
+- French sociology who is known as the founder of Sociology
+- Introduced the law of three stages
+- Discussed what keeps society together, *social statics* and what changes society, *Social Dynamics*
+- Started a 'Religion of Humanity' that focuses solely on morality
 
 ![image-center](/images/sociology/auguste_comte_1.jpg){: .align-center}
 
@@ -56,7 +56,7 @@ Comte believed that society operates according to its own laws, just like the ph
 
 ### The Religion of humanity
 
-- Comte also developed the *religion of humanity*. It is a secular religion that believes traditional religion is not required to hold societies together but rather with the power of moral force alone.
+- Comte also developed the **Religion of Humanity**. It is a secular religion that believes traditional religion is not required to hold societies together but rather with the power of moral force alone.
 
 - A calendar was also created called the *positivist calendar* named after history's greatest influencers. Each day was dedicated to a thinker.
 

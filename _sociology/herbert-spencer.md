@@ -9,9 +9,9 @@ date: 2020-06-28
 ### Summary
 
 - Spencer was a British sociologist
-- He was a **Structural Functionalist** and an advocate of the **Evolutionary Theory**
-- Presented the **Organic Analogy** and concept of **Social Darwinism**
-- Advocated **Laissez-faire** politics and **Non-interference**
+- He was a structural functionalist and an advocate of the *evolutionary theory*
+- Presented the *organic analogy* and concept of *'Social Darwinism'*
+- Advocated *Laissez-faire* politics and *Non-interference*
 
 ![image-center](/images/sociology/herbert_spencer_1.jpg){: .align-center}
 
@@ -79,7 +79,7 @@ Spencer believed that nature automatically removes its weaker parts and so does 
 
 #### 2. Principle of Non-interference
 
-Spencer supported *laissez-faire* policies of the state and believed the job of the state was to protect itself from any external threats. He believed that the state should not waste money on social institutions like education or on the poor. In his eyes, an ideal society would be where individuals pursued their interests without any hinderance by the state.
+Spencer supported **laissez-faire** policies of the state and believed the job of the state was to protect itself from any external threats. He believed that the state should not waste money on social institutions like education or on the poor. In his eyes, an ideal society would be where individuals pursued their interests without any hinderance by the state.
 
 ### Criticism
 

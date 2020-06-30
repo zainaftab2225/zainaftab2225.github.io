@@ -14,7 +14,7 @@ date: 2020-06-29
   - Social Action
   - Bureaucracy
   - Authority
-- Disagreed with Marx on social stratification
+- Disagreed with Marx on *social stratification*
 
 
 ![image-center](/images/sociology/max_weber_1.jpg){: .align-center}
@@ -33,13 +33,13 @@ date: 2020-06-29
 - Weber also believed that religion causes social change. He theorized that:
   - Roman Catholics hold on to traditions and believe they are on the road to heaven.
   - Protestants focus on change and believe that they will be judged on the Judgement Day.
-- Thus, the Protestants, started looking for 'signs' that they were in God's will. If they were financially successful, then it was a blessing from God. It was a sign that God was pleased with them. They started to invest their money to make more money and as a result, brought about the birth of *Capitalism*.
-- Weber called this self-denying approach to life the **Protestant Ethic**. He termed the desire to invest capital in order to make more money the spirit of capitalism. He believed capitalism was more likely to flourish in Protestant countries.
+- Thus, the Protestants, started looking for 'signs' that they were in God's will. If they were financially successful, then it was a blessing from God. It was a sign that God was pleased with them. They started to invest their money to make more money and as a result, brought about the birth of *capitalism*.
+- Weber called this self-denying approach to life the **Protestant ethic**. He termed the desire to invest capital in order to make more money the spirit of capitalism. He believed capitalism was more likely to flourish in Protestant countries.
 - Over time, this *religious ethic* become *work ethic* and the drive for personal wealth continued.
 
 ### Theory of Social Action
 
-- Weber introduced idea of **Social Action** and redefined sociology to be the study of social action. Social action is anything that affects society.
+- Weber introduced idea of **social action** and redefined sociology to be the study of social action. Social action is anything that affects society.
 - Action is considered to be human behavior that has the purpose to convey some subjective meaning, this means that actions have a purpose which is called *meaningful action*.
 - Meaningful action should be observed and measured by using the principles of statistics since there is uncertainty about the subjective meaning for the action.
 - Human behavior is complex, difficult and impossible to measure using math and statistics. The same is true for motives of an action.
