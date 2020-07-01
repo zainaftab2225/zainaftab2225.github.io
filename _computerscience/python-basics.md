@@ -6,6 +6,7 @@ date: 2020-07-01
 ### Printing
 
 - Output any expression to the screen using the **print()** function.
+- To print a blank line  use the following code: **print()**
 
 ```python
 print("Hello World") # Hello World
