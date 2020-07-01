@@ -1,6 +1,6 @@
 ---
 title: "Python Basics"
-date: 2020-06-30
+date: 2020-07-01
 ---
 
 ### Printing
@@ -226,6 +226,7 @@ if "A":
 
 - Another weird example is given below. *b* is always true in the first if statement so it'll print no matter what.
 
+
 ```python
 a = "c"
 if a == "B" or "b":
@@ -234,4 +235,47 @@ if a == "B" or "b":
 # This is the way to do the if statement for comparison with a
 if a == "B" or a == "b":
     print("a is equal to b.")
+```    
+
+### Else and Else If
+
+- **Else** is just else:
+- **Else If** is elif *<statement>*:
+- **REMINDER**: Order of execution matters.
+
+```python
+
+temperature = int(input("What is the temperature in Fahrenheit? "))
+if temperature > 90:
+    print("It is hot outside")
+elif temperature < 30:
+    print("It is cold outside")
+else:
+    print("It is not hot outside")
+print("Done")
+
+```
+
+### Text Comparisons
+
+- It is possible to use an if statement to check text.
+
+```python
+
+user_name = input("What is your name? ")
+if user_name == "Zain":
+    print("You have a nice name.")
+else:
+    print("Your name is ok.")
+
+```
+
+- If the program needs to match regardless as to the case of the text entered, the easiest way to do that is to convert everything to lower case. This can be done with the **lower** command.
+
+```python
+user_name = input("What is your name? ")
+if user_name.lower() == "zain":
+    print("You have a nice name.")
+else:
+    print("Your name is ok.")
 ```    
