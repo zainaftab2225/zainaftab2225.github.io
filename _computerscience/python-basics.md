@@ -125,3 +125,113 @@ number = float(number)
 # Can be done in one step
 number2 = float(input("Enter your second number: "))
 ```
+
+### If Statements
+
+- The if statement allows a computer to make a decision.
+- Indentation *matters* a lot here. If blocks use indentation to know whether to execute or not.
+- An if statement can check multiple conditions by chaining together comparisons with **and** and **or**.
+
+```python
+
+# Variables used in the example if statements
+a = 4
+b = 5
+
+# Basic comparisons
+if a < b:
+    print("a is less than b")
+
+if a > b:
+    print("a is greater than b")
+
+print("Done")
+
+# Indentation must be the same, this does NOT work
+if a == 1:
+  print("Indented two spaces.")
+    print("Indented four. This will generate an error.")
+   print("The computer will want you to make up your mind.")
+```
+
+| Conditional Operator | Description |
+|------- | ---------|
+| < | Less Than |
+| > | Greater Than |
+| <= | Lesser Than or Equal |
+| >= | Greater Than or Equal |
+| == | Equal |
+| != | Not Equal |
+| and | AND Operator |
+| or | OR Operator |
+| not | NOT Operator |
+
+
+
+### Boolean Variables
+
+- Boolean variables are: **True** and **False**.
+
+```python
+# Boolean data type. This is legal!
+a = True
+if a:
+    print("a is true")
+```
+
+- The **not** operator flips the value. So if a is *true*, you can make it false by using 'not a'.
+
+```python
+
+# Using not
+a = True
+b = not a # Value in b is 'False'
+
+# How to use the not function
+if not(a):
+    print("a is false")
+
+# Can also be used like this, looks better - use this
+if not a:
+    print("a is false")    
+```
+
+- You can compare and assign at the same time. Check the code block below.
+
+```python
+a = 3
+b = 3
+# This next line is strange-looking, but allowed.
+# c will be true or false, depending if
+# a and b are equal.
+c = a == b
+# Prints value of c, in this case True
+print(c)
+```
+
+- If you do 'if 0', then it is treated as false. It won't run. Any value other than 0 will be true.
+
+```python
+
+# Nothing will be printed
+if 0:
+    print("Zero")
+
+# Will print
+if 1:
+    print("1")
+if "A":
+    print("A")
+```
+
+- Another weird example is given below. *b* is always true in the first if statement so it'll print no matter what.
+
+```python
+a = "c"
+if a == "B" or "b":
+    print("a is equal to b. Maybe.")
+
+# This is the way to do the if statement for comparison with a
+if a == "B" or a == "b":
+    print("a is equal to b.")
+```    
