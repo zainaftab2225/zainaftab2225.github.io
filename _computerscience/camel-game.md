@@ -10,7 +10,7 @@ A text-based game where you steal a camel and try to outrun the natives. Cross 2
 
 ### Download Link
 
-[here is possible to download the file in PDF][1]
+[Download Camel Game][1]
 
 [1]:{{ site.url }}/download/Camel.zip
 
