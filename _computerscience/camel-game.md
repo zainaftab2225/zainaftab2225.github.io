@@ -1,6 +1,6 @@
 ---
 title: "Camel Game"
-excerpt: "The basics of the language syntax"
+excerpt: "First Text-based Game"
 date: 2020-07-02
 ---
 
