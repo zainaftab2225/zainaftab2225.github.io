@@ -7,7 +7,7 @@ date: 2020-06-30
 
 1. Click [here](https://www.python.org/downloads/) to go to Python's download page.
 2. Download and launch the latest version of the Python installer.
-2. Select "Add Python --version-- to PATH".
+2. Select "Add Python --*version*-- to PATH".
 4. Select a customized installation location for easier access to the Python folder.
 5. Install and let the setup complete.
 
