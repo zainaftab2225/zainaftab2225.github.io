@@ -15,7 +15,7 @@ date: 2020-06-30
 
 1. Open the file **'IDLE (Python --version--)'**.
 2. Type in **'print("Hello World")'**. If the shell outputs 'Hello World', then Python is installed correctly.
-3. You can also open the Windows Command Prompt and write **'python --version'**. If the version is displayed, then Python installed correctly.
+3. You can also open the Windows Command Prompt and write **'python - -version'**. If the version is displayed, then Python installed correctly.
 
 ### Setting up the Atom Environment
 
