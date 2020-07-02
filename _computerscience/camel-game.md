@@ -1,5 +1,5 @@
 ---
-title: "Python Basics"
+title: "Camel Game"
 excerpt: "The basics of the language syntax"
 date: 2020-07-02
 ---
