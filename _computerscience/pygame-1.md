@@ -1,7 +1,7 @@
 ---
 title: "Working with pygame - 1"
 excerpt: "Learning to use pygame"
-date: 2020-07-02
+date: 2020-07-03
 ---
 
 ### pygame Library
@@ -82,3 +82,101 @@ while not done:
     # --- Limit to 60 frames per second
     clock.tick(60)
 ```
+
+### Drawing Lines
+
+- The code examples below shows how to draw a lines on the screen.
+- Attributes are (screen, color, [x1, y1], [x2, y2], thickness)
+
+```python
+#Drawing a single line
+# Draw on the screen a green line from (0, 0) to (100, 100)
+# that is 5 pixels wide.
+pygame.draw.line(screen, GREEN, [0, 0], [100, 100], 5)
+
+
+# Draw on the screen several lines from (0, 10) to (100, 110)
+# 5 pixels wide using a while loop
+y_offset = 0
+while y_offset < 100:
+    pygame.draw.line(screen,RED,[0,10+y_offset],[100,110+y_offset],5)
+    y_offset = y_offset + 10
+
+# Same code as above but with for
+# Draw on the screen several lines from (0,10) to (100,110)
+# 5 pixels wide using a for loop
+for y_offset in range(0, 100, 10):
+    pygame.draw.line(screen,RED,[0,10+y_offset],[100,110+y_offset],5)    
+```
+
+- Lines can be drawn in more complex styles as shown below. This will print a series of x's on the screen.
+
+```python
+# Drawing a series of x's
+for x_offset in range(30, 300, 30):
+    pygame.draw.line(screen,BLACK,[x_offset,100],[x_offset-10,90],2)
+    pygame.draw.line(screen,BLACK,[x_offset,90],[x_offset-10,100],2)
+```
+
+### Drawing Rectangles and Ellipses
+
+- Pretty simple stuff. Attributes are (screen, color, [x, y, width, height], thickness).
+
+```python
+# Rectangle
+pygame.draw.rect(screen,BLACK,[20,20,250,100],2)
+
+# Ellipse
+pygame.draw.ellipse(screen, BLACK, [20,20,250,100], 2)
+```
+
+### Drawing Arcs
+
+- Arc is contained within a rectangle.
+- [x, y, width, height] is the starting point, width and the height of the rectangle in which the arc will be drawn.
+- The PI attributes are where to start and where to end.
+- Attributes are (screen, color, [x, y, width, height], start, end)
+
+```python
+# Draw an arc as part of an ellipse. Use radians to determine what
+# angle to draw.
+pygame.draw.arc(screen, GREEN, [100,100,250,200],  PI/2,     PI, 2)
+pygame.draw.arc(screen, BLACK, [100,100,250,200],     0,   PI/2, 2)
+pygame.draw.arc(screen, RED,   [100,100,250,200],3*PI/2,   2*PI, 2)
+pygame.draw.arc(screen, BLUE,  [100,100,250,200],    PI, 3*PI/2, 2)
+```
+
+### Drawing Polygons
+
+- Pretty simple. Attributes are (screen, color, [[x1, y1],[x2, y2],[x3, y3]], thickness).
+
+```python
+# This draws a triangle using the polygon command
+pygame.draw.polygon(screen, BLACK, [[100,100], [0,200], [200,200]], 5)
+```
+
+### Drawing Text
+
+- There are three basic steps to drawing text:
+  1. Setting the font
+  2. Making a stamp
+  3. Displaying the stamp
+- Make the font outside the main loop.
+```python
+# Select the font to use, size, bold, italics
+font = pygame.font.SysFont('C:\\Fonts\\Calibri', 25, True, False)
+
+# Render the text. "True" means anti-aliased text.
+# Black is the color. The variable BLACK was defined
+# above as a list of [0, 0, 0]
+# Note: This line creates an image of the letters,
+# but does not put it on the screen yet.
+text = font.render("My text",True,BLACK)
+
+# Put the image of the text on the screen at 250x250
+screen.blit(text, [250, 250])
+
+
+# Use this code for string conversion
+text = font.render("Score: " + str(score), True, BLACK)
+```  
