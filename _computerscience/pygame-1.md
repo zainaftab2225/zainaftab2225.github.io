@@ -162,6 +162,7 @@ pygame.draw.polygon(screen, BLACK, [[100,100], [0,200], [200,200]], 5)
   2. Making a stamp
   3. Displaying the stamp
 - Make the font outside the main loop.
+
 ```python
 # Select the font to use, size, bold, italics
 font = pygame.font.SysFont('C:\\Fonts\\Calibri', 25, True, False)
