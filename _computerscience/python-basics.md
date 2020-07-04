@@ -33,6 +33,19 @@ print("Hello \" World ") # Hello " World
 | \r | Carriage Return |
 | \n | Linefeed/New Line |
 
+- If we wanted the code output to print on the same line, it can be done by using a new option to set the end character. The example below prints: PinkOctopus
+
+```python
+print("Pink", end="")
+print("Octopus")
+```
+- We can also use a space with the end character. The example below prints: Pink Octopus
+
+```python
+print("Pink", end=" ")
+print("Octopus")
+```
+
 ### Comments
 
 - Comments can be added by using the # symbol at the beginning of a line.
