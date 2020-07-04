@@ -110,6 +110,7 @@ print(my_list)
 - You can also do arithmetic with strings:
   - print (a+b) is **concatenation of a and b**.
   - print (a*2) is printing the string *a* twice.
+  
 ```python
 x = "This is a sample string"
 #x = "0123456789"
@@ -150,4 +151,18 @@ for character in "This is a test.":
 
 ### Associative Arrays
 
-- Python is not limited to using numbers as an array index. It is also possible to use an associative array. An associative array works like this:
+- Python is not limited to using numbers as an array index. It is also possible to use an associative array. An associative array works like this.
+
+```python
+# Create an empty associative array
+# (Note the curly braces.)
+x = {}
+
+# Add some stuff to it
+x["fred"] = 2
+x["scooby"] = 8
+x["wilma"] = 1
+
+# Fetch and print an item
+print(x["fred"])
+```
