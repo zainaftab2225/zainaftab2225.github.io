@@ -36,7 +36,7 @@ BLUE     = (   0,   0, 255)
 
 ### Opening a window
 
-- Size is tupple here. It is not changable. If you want changeable values, use a list: **[800, 600]**
+- Size is tupple here. It is not changeable. If you want changeable values, use a list: **[800, 600]**
 - Set mode can do a lot e.g. run full screen, etc.
 - The code for opening a window is given below.
 
