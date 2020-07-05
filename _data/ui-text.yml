@@ -34,6 +34,7 @@ en: &DEFAULT_EN
   email_label                : "Email"
   recent_posts               : "Recent posts"
   recent_css_posts           : "Recent CSS posts"
+  recent_ir_post             : "Recent IR Post"
   recent_sociology_post      : "Recent Sociology Post"
   recent_videogame_post      : "Recent Video Game Post"
   recent_genderstudies_post  : "Recent Gender Studies Post"

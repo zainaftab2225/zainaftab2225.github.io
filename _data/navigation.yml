@@ -18,6 +18,8 @@ main:
     url: /criminology/
   - title: "Gender Studies"
     url: /genderstudies/
+  - title: "International Relations"
+    url: /internationalrelations/
 
   # - title: "CSS Posts"
   #  url: /css-page/
