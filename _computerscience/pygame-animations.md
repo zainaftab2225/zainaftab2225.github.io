@@ -2,6 +2,7 @@
 title: "pygame Animations"
 excerpt: "Learning to use pygame Animations"
 date: 2020-07-06
+toc: false
 ---
 - Within the loop of 60 frames, you can make variables and move the coordinates. When new coordinates are set and a newer frame is displayed, it gives the illusion to the user that there is an animation.
 - Below is an example of how to create a bouncing rectangle.
