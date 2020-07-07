@@ -1,7 +1,7 @@
 ---
 title: "Python Functions"
 excerpt: "The basics of the Python Functions"
-date: 2020-07-01
+date: 2020-07-07
 ---
 
 
