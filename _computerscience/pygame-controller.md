@@ -1,7 +1,7 @@
 ---
 title: "pygame Controllers and Graphics"
 excerpt: "Learning to use pygame Animations"
-date: 2020-07-06
+date: 2020-07-08
 toc: true
 ---
 
