@@ -44,6 +44,7 @@ pygame.draw.line(screen, RED, [5+x,7+y], [1+x,17+y], 2)
 - To get the position of the mouse cursor on the screen, use: **pos = pygame.mouse.get_pos()**
 -  So if we do a *print(pos)* we get **(x,y)**
 - Getting the mouse should go in the “game logic” part of the main program loop. The function call should go in the “drawing” part of the main program loop.
+
 ```python
 # Game logic
 pos = pygame.mouse.get_pos()
