@@ -1,5 +1,5 @@
 ---
-title: "Python Functions"
+title: "pygame Images and Sound"
 excerpt: "Adding Images and Sound"
 date: 2020-07-08
 ---
