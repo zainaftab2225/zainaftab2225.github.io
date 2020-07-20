@@ -17,7 +17,7 @@ date: 2020-07-20
 3. In the workloads area, select **Windows: .NET desktop development** and **Mobile & Gaming: Game development with Unity**.
 4. Continue and finish installation.
 
-### 2. Download Unity Hub
+#### 2. Download Unity Hub
 
 1. Download Unity Hub at this [link]( http://unity.com/).
 2. Run the install file you downloaded.
