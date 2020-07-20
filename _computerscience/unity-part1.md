@@ -64,13 +64,15 @@ public class PrintMessage : MonoBehaviour
  - In C#, we have many different numeric data types. The main ones are: **int**,  **float**, **long** and **double**.
  - Click [here](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types) to read more about them in detail.
 
- ### Floats
+
+
+### Floats
 
  - It's actually impossible for us to represent the whole range of infinite real numbers in a computer.
  - To represent decimals, we use float. However if we declare a decimal in C# without implicitly stating it is a float, the compiler considers it to be double. Therefore, we need to declare a float like this: **float myVar = 0.25f**
  - The compiler gives an error if you don't add the *f* because you are trying to insert a double value (8 bytes) into a float variable (4 bytes).
 
- ### Type-casting
+### Type-casting
 
  - You can explicitly type-cast for a certain operation by adding the datatype in brackets before the variable. It is shown in code below.
 
