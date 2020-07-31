@@ -8,6 +8,12 @@ date: 2020-07-31
 
 ### Summary
 
+- US sociologist of the 20th century who was influenced by Weber and Durkheim
+- Structural Functionalist (however, he disproved of the label)
+- Extended the theory of Social Action provided by Weber
+- Introduced Action Systems and Social System theory
+- Introduced a theory of Social Change
+
 ### Introduction
 
 - Talcott Parsons was arguably the most influential US sociologist of the 20th century.
