@@ -121,7 +121,7 @@ date: 2020-07-31
 - He stated that change arises from two sources:
   1. outside the society by contact with other societies.
   2.  inside the society through adjustments that must be made to resolve strains within the system.
-- He talked about two processes that are at work in social change. In traditional and simple societies, undifferentiated institutions exist e.g. the family. The institution of family caters to education, socialization, providing financial support, recreation, etc. Over time, a **process of Differentiation* takes place which breaks up these different functions in different institutions e.g. the schools provide education, parks provide recreation, etc. The new institutions must be linked together in a proper way by the **process of Integration**. New norms must be established in order to govern the relationship between the school and home.
+- He talked about two processes that are at work in social change. In traditional and simple societies, undifferentiated institutions exist e.g. the family. The institution of family caters to education, socialization, providing financial support, recreation, etc. Over time, a **process of Differentiation** takes place which breaks up these different functions in different institutions e.g. the schools provide education, parks provide recreation, etc. The new institutions must be linked together in a proper way by the **process of Integration**. New norms must be established in order to govern the relationship between the school and home.
 
 ### Criticism
 
