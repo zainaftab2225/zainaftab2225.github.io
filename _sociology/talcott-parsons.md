@@ -83,7 +83,14 @@ date: 2020-07-31
   3. **Personality System** - hidden or internal aspect. This system talks about emotions, stress, aspirations, etc.
   4. **Organismic System** - biological or physical aspect.
 
-### Social System
+#### Cybernetic Hierarchy of Control
+
+- Interaction of action systems is known as the cybernetic hierarchy of control.
+- The organismic system creates energy which flows through personality system, social system and finally reaches cultural system.
+- The cultural system generates information which flows through social systems, personality system and organismic system.
+- If a balance between the two flows is maintained, the system will keep surviving.
+
+#### Social System
 
 - Out of the four action systems, let's focus on the social system.
 - A social system requires:
@@ -95,16 +102,24 @@ date: 2020-07-31
 #### Functional Analysis of Social System
 
 - **How does a social system survive over time?** An example is that Christianity has survived over time but many religions have perished. Parsons stated that the system survives due to *Mechanism/Moving Equilibrium Phase*. Basically, whenever the system changes, it adapts to a new equilibrium. A good example is the internet which originated in the 1990s but after some time, there was cyber crime on the internet. The internet should have perished due to the prevalence of cyber crime but the system adapted to a new equilibrium as countries started introducing cyber laws.
-- **What are the functions fulfilled by a particular system?** Parson states there are four functional requisites which are a must for the survival of the system. This became the **AGIL Model** of Parsons.
+- **What are the functions fulfilled by a particular system?** Parson states there are four functional requisites which are a must for the survival of the system. This became the **AGIL Model** of Parsons. AGIL model is inter-related and inter-dependent.
   1. **Adaptation** - generation, acquisition & distribution of resources (Economic System) e.g. a father needs to do all this to maintain the family.
   2. **Goal Attainment** - determination of goals, motivating, mobilizing, channelizing (Political System) e.g. the American founding fathers wanted freedom from the British as a goal.
   3. **Integration** - consensus, solidarity, coordination between units (Cultural System) e.g. mother helps with the solidarity in the family.
   4. **Latency** - hidden aspect for pattern management, maintaining the motivation, stress management (Family System) e.g. wife, mother, and family members help with motivation for a person.
 
 
-
 ### Parsons Theory of Social Change
 
+- Parson considers change "not as something that disturbs the social equilibrium but as something that alters the state of equilibrium so that a qualitatively new equilibrium results." - an idea similar to Mechanism Equilibrium phase.
+- He stated that change arises from two sources:
+  1. outside the society by contact with other societies.
+  2.  inside the society through adjustments that must be made to resolve strains within the system.
+- He talked about two processes that are at work in social change. In traditional and simple societies, undifferentiated institutions exist e.g. the family. The institution of family caters to education, socialization, providing financial support, recreation, etc. Over time, a **process of Differentiation* takes place which breaks up these different functions in different institutions e.g. the schools provide education, parks provide recreation, etc. The new institutions must be linked together in a proper way by the **process of Integration**. New norms must be established in order to govern the relationship between the school and home.
+
+### Criticism
+
+- Parsons' later works were met with criticism and were generally dismissed in the 1970s by the view that his theories were too abstract, inaccessible, and socially conservative.
 
 ### Bibliography
 
