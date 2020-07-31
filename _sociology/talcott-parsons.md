@@ -70,15 +70,38 @@ date: 2020-07-31
 
 - While Weber divided social actions into four types, Parsons was of the opinion that there are only **three** types of social actions as described below.
 
-1. Instrumental Action - the rational and logical action. The evaluative aspect is the strongest in this type of action.
-2. Expressive Action - emotional action. The appreciative aspect is the strongest in this type of action.
-3. Moral Action - the mixture of Weber's traditional and value oriented action. Parsons considers to be one and the same called moral action. The moral aspect is the strongest in this type of action.
+1. **Instrumental Action** - the rational and logical action. The evaluative aspect is the strongest in this type of action.
+2. **Expressive Action** - emotional action. The appreciative aspect is the strongest in this type of action.
+3. **Moral Action** - the mixture of Weber's traditional and value oriented action. Parsons considers to be one and the same called moral action. The moral aspect is the strongest in this type of action.
+
+### Action Systems
+
+- Parson states, "**actions occur in constellations called as action system**". In other words, actions do not occur in isolation.
+- Parson believed that there are four types of action systems that comprise reality.
+  1. **Cultural System** - which provides the basic guidelines of performing an action through specifying norms and values.
+  2. **Social System** - how interaction occurs between the units of the system e.g. family interactions, political interactions, etc.
+  3. **Personality System** - hidden or internal aspect. This system talks about emotions, stress, aspirations, etc.
+  4. **Organismic System** - biological or physical aspect.
+
+### Social System
+
+- Out of the four action systems, let's focus on the social system.
+- A social system requires:
+  - two or more individuals in social interaction.
+  - some collective goals (motivation of units & values of society).
+  - consensus on **role expectations** e.g. a father will earn, a mother will cook, children will study, etc.
+  - that an interaction will develop an **abstract boundary** around the system.
+
+#### Functional Analysis of Social System
+
+- **How does a social system survive over time?** An example is that Christianity has survived over time but many religions have perished. Parsons stated that the system survives due to *Mechanism/Moving Equilibrium Phase*. Basically, whenever the system changes, it adapts to a new equilibrium. A good example is the internet which originated in the 1990s but after some time, there was cyber crime on the internet. The internet should have perished due to the prevalence of cyber crime but the system adapted to a new equilibrium as countries started introducing cyber laws.
+- **What are the functions fulfilled by a particular system?** Parson states there are four functional requisites which are a must for the survival of the system. This became the **AGIL Model** of Parsons.
+  1. **Adaptation** - generation, acquisition & distribution of resources (Economic System) e.g. a father needs to do all this to maintain the family.
+  2. **Goal Attainment** - determination of goals, motivating, mobilizing, channelizing (Political System) e.g. the American founding fathers wanted freedom from the British as a goal.
+  3. **Integration** - consensus, solidarity, coordination between units (Cultural System) e.g. mother helps with the solidarity in the family.
+  4. **Latency** - hidden aspect for pattern management, maintaining the motivation, stress management (Family System) e.g. wife, mother, and family members help with motivation for a person.
 
 
-
-
-
-####
 
 ### Parsons Theory of Social Change
 
