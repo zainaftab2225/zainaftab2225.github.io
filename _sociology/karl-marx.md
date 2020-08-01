@@ -1,5 +1,5 @@
 ---
-title: "Karl Marx"
+title: "Sociologists - Karl Marx"
 excerpt: “The history of all previous societies has been the history of class struggles.”
 date: 2020-06-29
 ---

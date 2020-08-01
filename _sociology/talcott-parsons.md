@@ -1,5 +1,5 @@
 ---
-title: "Talcott Parsons"
+title: "Sociologists - Talcott Parsons"
 excerpt: "If there are four equations and only three variables, and no one of the equations is derivable from the others by algebraic manipulation then there is another variable missing."
 date: 2020-07-31
 ---

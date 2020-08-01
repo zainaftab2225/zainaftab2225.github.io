@@ -1,5 +1,5 @@
 ---
-title: "Herbert Spencer"
+title: "Sociologists - Herbert Spencer"
 excerpt: “The great aim of education is not knowledge but action.”
 date: 2020-06-28
 ---
