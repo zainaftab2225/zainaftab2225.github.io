@@ -14,6 +14,8 @@ date: 2020-07-31
 - Introduced Action Systems and Social System theory
 - Introduced a theory of Social Change
 
+![image-center](/images/sociology/talcott_parsons_1.jpg){: .align-center}
+
 ### Introduction
 
 - Talcott Parsons was arguably the most influential US sociologist of the 20th century.
