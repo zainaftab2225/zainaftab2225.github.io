@@ -29,3 +29,13 @@ date: 2020-08-03
 - **Public Sociology**: applying sociology for the public good; especially the use of the sociological perspective (how things are related to one another) to guide politicians and policy makers.
 - Public sociology is a **middle ground** between research and reform.
 - One of the most important aspects of public sociology is to make policy makers *understand* the society so they develop policies in a pragmatic manner.
+
+### Three Time Periods of Sociology
+
+- A tension between social reform and social analysis runs through the history of sociology.
+- We can divide sociology in three time periods:
+  1. the first period which lasted until the 1920s, the primary purpose of sociology was to improve society.
+  2. the second period which lasted from 1920s till the end of World War II, the concern switched to gaining abstract knowledge.
+  3. the third period which began around the end of World War II and still exists today, where sociologists try to apply their **research** findings.
+- Sociology is filled with *diverse opinions*. Even in these three periods, there was debate and difference of opinions between sociologists e.g. Herbert Spencer campaigned against helping the poor for he thought it was better for the progress of society.
+- Each particular period, however, does have basic emphases, and this division of sociology into three phases pinpoints major trends.
