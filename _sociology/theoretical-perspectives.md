@@ -49,6 +49,12 @@ date: 2020-08-03
 - Symbolic interactionists usually focus on the **micro level**, on social interaction — what people do when they are in one another’s presence.
 - If we were to study homeless, functionalists and conflict would focus on *why* homelessness exists in society. The symbolic interactionists would focus on *what* the homeless do and the choices they make in their *day-to-day* lives.
 
+### Theory and Research
+
+- Theory and research are both essential for sociology.
+- Every theory must be tested, which requires research.
+- Research often comes up with surprising findings, those results must be explained: For that, we need theory. 
+
 ### Summary of Perspectives
 
 ![image-center](/images/sociology/theoretical_perspectives.JPG){: .align-center}
