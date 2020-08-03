@@ -10,6 +10,8 @@ date: 2020-08-03
 - Talcott Parsons was an advocate of social theory and developed abstract models of society.
 - C. Wright Mills, another sociologist, thought sociologists should focus on social reform. His ideas became popular in 1970s when activism in America was at its peak.
 
+![image-center](/images/sociology/reformvsresearch.JPG){: .align-center}
+
 ### Basic Sociology
 
 - **Basic Sociology**: sociological research for the purpose of making discoveries about life in human groups, not for making changes in those groups.
