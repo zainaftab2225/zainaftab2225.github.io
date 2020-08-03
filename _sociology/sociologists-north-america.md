@@ -14,6 +14,8 @@ date: 2020-08-03
 
 #### Harriet Martineau (1802–1876)
 
+![image-center](/images/sociology/harriet_1.jpg){: .align-center}
+
 - Martineau was a sociologist from England who did extensive analysis of US social customs.
 -  Sexism was so pervasive that when Martineau first began to analyze social life, she would hide her
 writing beneath her sewing when visitors arrived.
@@ -21,12 +23,16 @@ writing beneath her sewing when visitors arrived.
 
 #### Jane Addams (1860–1935)
 
+![image-center](/images/sociology/jane_addams_1.jpg){: .align-center}
+
 - Jane Addams was a prominent sociologist and social reformer who became one of the founding members of the **American Sociological Society**.
 - On a trip to Europe, she saw the work being done for the poor and decided to work for social justice.
 - She campaigned for 8-hour work days and for laws against child labor.
 - She wrote books on poverty, democracy and peace which made her win a **Nobel Prize for Peace**.
 
 ### Racism and W. E. B. Du Bois
+
+![image-center](/images/sociology/web_dubois_1.jpg){: .align-center}
 
 - Racism was prevalent in the 19th and 20th century in North America.
 - W(illiam) E(dward) B(urghardt) Du Bois (1868–1963) was a black man who was graduate of Fisk University, Harvard and University of Berlin.
