@@ -69,7 +69,6 @@ date: 2020-08-04
 - In surveys, you can have open-ended or close-ended questions.
   - **Open-ended questions** allow the respondents to share their full opinion but are hard to compare.
   - **Close-ended questions** are easy to compare in the study but the opinions of respondents may be lacking.
--
 
 #### Observation (Fieldwork)
 
