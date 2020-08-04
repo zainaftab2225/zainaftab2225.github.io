@@ -1,7 +1,7 @@
 ---
 title: "Sociological Research"
 excerpt: “Research Model and Research Methods”
-date: 2020-06-29
+date: 2020-08-04
 ---
 
 ### Research Model
