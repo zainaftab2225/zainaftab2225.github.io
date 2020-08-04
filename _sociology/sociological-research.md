@@ -107,7 +107,7 @@ date: 2020-08-04
   - spurious correlation: two variables that exist together may not be correlated. There might be a third hidden variable.
 - As an example, lets *experiment* with a group of abusers to see if therapy works on them. Divide the group into two parts: one that gets therapy *(experimental group)* and one that doesn't *(control group)*. Therapy will be our independent variable because it may affect their behavior *(dependent variable)*. If the wives report better behavior after therapy, you can conclude that the therapy worked and vice versa.
 
-![image-center](/images/sociology/experiment_1.jpg){: .align-center}
+![image-center](/images/sociology/experiment_1.JPG){: .align-center}
 
 #### Unobtrusive Measures
 
