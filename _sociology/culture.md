@@ -48,9 +48,23 @@ date: 2020-08-05
 
 #### 3. Beliefs
 #### 4. Values
+
+- **Values**: the standards by which people define what is desirable or undesirable, good or bad, beautiful or ugly.
+- As an example, the US society has these core values: achievement, individualism, material comfort, hard work, equality, and group superiority (even though it is contradictory to equality).
+- **Value Cluster**: values that together form a larger whole. Values are not independent units; some cluster together to form a larger whole e.g. achievement, hard work and material comfort all come under the value of *success* in life which is a value cluster.
+- **Value Contradictions**: values that contradict one another; to follow the one means to come into conflict with the other e.g. equality and group superiority.
+
+
 #### 5. Norms
 #### 6. Customs
 #### 7. Sanctions
+
+### Ideal versus Real Culture
+
+- Many of the norms that surround cultural values are followed only partially.
+- **Ideal Culture**: culture a people’s ideal values and norms; the goals held out for them e.g. we want to ideal Muslims by following Islamic principles to the tee.
+- **Real Culture**: the norms and values that people actually follow; as opposed to ideal culture e.g. what we actually practice as Muslims which may not be ideal such as crime even in Muslim societies.
+
 
 ### Cultural Shock
 
@@ -88,3 +102,14 @@ date: 2020-08-05
 - People with the best intentions sometimes travel to a society to “help” its people, because they see them as uneducated or backward—essentially inferior. In reality, these travelers are guilty of cultural imperialism.
 - **Cultural Imperialism**: the deliberate imposition of one’s own cultural values on another culture.
 - European colonizers often viewed the people in the lands they colonized as uncultured savages who were in need of European governance, dress, religion, and other cultural practices.
+
+### Cultural Universalism
+
+- Although there are universal human activities (singing, playing games, storytelling, preparing food, marrying, child rearing, disposing of the dead, and so on), there is no universal way of doing any of them.
+- **Cultural Universalism**: a value, norm, or other cultural trait that is found in every group.
+
+### Culture and Technology
+
+#### The New Technology
+#### Cultural Lag and Cultural Change
+#### Technology and Cultural Leveling
