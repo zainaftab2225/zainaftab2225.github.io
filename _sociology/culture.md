@@ -108,8 +108,37 @@ date: 2020-08-05
 - Although there are universal human activities (singing, playing games, storytelling, preparing food, marrying, child rearing, disposing of the dead, and so on), there is no universal way of doing any of them.
 - **Cultural Universalism**: a value, norm, or other cultural trait that is found in every group.
 
+
+### Culture vs. Biology
+
+- Edward Wilson set off a debate when he said that human behavior and their way of living isn't determined by culture but by genetics. Competition, cooperation, altruism, envy - even religion, war and peace - could be explained by **sociobiology**, claimed Wilson.
+- Sociologists disagree with this claim by saying that although genetics does have an *influence* on our way of life but everything can't be explained through genetics. Culture is just as important.
+- An example would be that people with the 9R/9R gene are less sexually active but if the subculture encourages sexual behaviors, then the gene could be overrode. Another example is the DRD2 gene which makes people abuse alcohol - what if a person has this gene in a Muslim country where alcohol is banned?
+
 ### Culture and Technology
 
+- **Technology**: tools, skills or procedures necessary to make and use those tools.
+- Technology is central to a group's material culture.
+
 #### The New Technology
+
+- People make technology all the time but most of the time it has very little impact. Sometimes, it has a huge impact on human lives e.g. the printing press, factories, assembly line, microchips, etc.
+- This emerging technology is known as **new technology**.
+- *However, this new technology sets the framework for a group's non-material culture as well.*
+
 #### Cultural Lag and Cultural Change
+
+- William Ogburn (1922/1950) coined the term **Cultural Lag**.
+- Ogburn meant that not all parts of a culture change at the same pace.
+- When one part of a culture changes, other parts lag behind.
+- Ogburn pointed out that a group’s material culture usually changes first, with the nonmaterial culture lagging behind.
+- A good example is that the school year is just 9 months long with a huge summer break. Why does the summer break exist? In the 1800s, children had to help out in family farms during the summers so they had to take breaks. However, farming is mostly automated now so these summer breaks are not required but it is part of our nonmaterial culture. As a result, we are lagging behind when it comes to summer breaks.
+
 #### Technology and Cultural Leveling
+
+- For most of human history, communication was limited and travel was slow. Consequently, people developed unique cultures according to their environment.
+- When people *did* contact one another, they learned from each other and adopted cultural traits they deemed desirable.
+- **Cultural Diffusion**: the spread of cultural traits from one group to another; includes both material and non-material cultural traits.
+- With today’s trade, travel, and communications, cultural diffusion is occurring rapidly. Travel and communication bridge time and space to such an extent that there is
+almost no “other side of the world” anymore. As a result, cultural leveling is happening - basically all cultures are coming on the same level.
+- **Cultural Leveling**: the process by which cultures become similar to one another; refers especially to the process by which Western culture is being exported and diffused into other nations.
