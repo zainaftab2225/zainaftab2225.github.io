@@ -89,11 +89,20 @@ date: 2020-08-05
   - For example, Muslim women cover their head, Indian cuisine, etc.
 9. **Integration**
   - As culture is shared between a group, there is a sense of integration and affiliation.
-  - In Muslim culture, territorial boundaries are meaningless when it comes to the suffering of Kashmiris or Palestinians. Pakistan condemns Israeli acts even though it is not directly affected. 
+  - In Muslim culture, territorial boundaries are meaningless when it comes to the suffering of Kashmiris or Palestinians. Pakistan condemns Israeli acts even though it is not directly affected.
 
 ### Organization of Culture
 
-
+- **Cultural Pattern**
+  - When a large number of people follow a certain behavior, it becomes a rule of social life. This rule is a **cultural pattern**.
+  - For example, charity is something that happens in Muslim countries and there is a clear pattern of it in our culture.
+- **Cultural Trait**
+  - **Cultural trait** is the smallest unit of culture. It can be transmitted from one culture to another.
+- **Cultural Complex**
+  - A cluster of related traits is called a **cultural complex**.
+  - When a series of complexes unite together on a certain point, they make an institution e.g. marriage is an institution with complexes like nikkah, dowry, marriage ceremonies, etc.
+- **Cultural Area**
+  - The geographical area in which a cultural trait is originated and spreads around by diffusion is called a **cultural area**.
 
 ### Elements of Symbolic Culture
 
