@@ -1,7 +1,7 @@
 ---
 title: "Culture"
 excerpt: “Symbols, functions and conflicts make a society.”
-date: 2020-08-05
+date: 2020-08-08
 ---
 
 ### Introduction
@@ -182,7 +182,7 @@ date: 2020-08-05
 
 ### Multiculturalism
 
-- The definition of multicultural is something that incorporates ideas, beliefs or people from many different countries and cultural backgrounds. 
+- The definition of multicultural is something that incorporates ideas, beliefs or people from many different countries and cultural backgrounds.
 - When people of different cultures come together to celebrate and share their different traditions this is an example of a multicultural celebration.
 
 
