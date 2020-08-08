@@ -129,6 +129,10 @@ date: 2020-08-05
     - **Sapir-Whorf Hypothesis**: Edward Sapir and Benjamin Whorf’s hypothesis that language creates ways of thinking and perceiving. Language isn't just for expressing our thoughts, they claimed, but they also *shaped* our thoughts. In Urdu, you may call a club sandwich or a Subway sandwich as just a sandwich but for English speakers, subs and sandwiches are different. Jam and jelly is same for people who speak Urdu but quite different for native English speakers.
 
 3. **Beliefs**
+  - **Beliefs**: something that is supposed to be true.
+  - It is your perception but it isn't necessarily objective fact.
+  - For example, Americans have a belief that democracy is the best political system because it gives a voice to every American. The Chinese political system may not give a voice to every Chinese, but it also results in a lot less poverty.
+  - Religious beliefs are also included in this element of symbolic culture e.g. life after death in Islam is a religious belief. There is no way to prove that scientifically but Muslims still believe in it.
 
 4. **Values**
  - **Values**: the standards by which people define what is desirable or undesirable, good or bad, beautiful or ugly.
@@ -136,28 +140,57 @@ date: 2020-08-05
  - As an example, the US society has these core values: achievement, individualism, material comfort, hard work, equality, and group superiority (even though it is contradictory to equality).
  - **Value Cluster**: values that together form a larger whole. Values are not independent units; some cluster together to form a larger whole e.g. achievement, hard work and material comfort all come under the value of *success* in life which is a value cluster.
  - **Value Contradictions**: values that contradict one another; to follow the one means to come into conflict with the other e.g. equality and group superiority.
+
 5. Norms
-6. Customs
-7. Sanctions
+  - **Norms**: standards of behavior or expectations that develop out of a group's values.
+  - There are four different types of norms:
+    1. Folkways: norms that are not strictly enforced with no sanctions e.g. if a man goes outside without a shirt, he won't be punished for it. The most people will do is give him a look.
+    2. Mores: norms that are rules or behavior that are enforced with sanctions e.g. if a woman goes outside without a shirt, she will be punished for it. People will do more than just give her a look.
+    3. Taboos: strongest norms that can **NEVER** be tolerated e.g. murder, cannibalism, incest, etc. The sanctions are extremely severe in this case e.g. prison, banishment or even death.
+    4. Laws: norms that are in written form e.g. laws for theft, bribery, extortion, etc.
 
+6. **Sanctions**
+  - **Sanctions**: reactions people receive for following or breaking a norm.
+  - A **positive sanction** expresses approval for following a norm.
+  - A **negative sanction** reflects disapproval for breaking a norm.
+  - Sanctions can material and non-material e.g. a trophy is a material positive sanction, a hug is a non-material positive sanction, a fine ticket is a material negative sanction and harsh words are non-material negative sanctions.
 
-
+7. **Customs**
+  - **Customs**: traditions across the society.
+  - They are *mostly* non-material e.g. the way wedding ceremonies work in Pakistan are a part of Pakistani customs.
 
 ### Subcultures
 
+- **Subculture**: the values and related behaviors of a group that distinguish its members from the larger culture; a world within a world.
+- U.S. society contains *thousands* of subcultures. Some are as broad as the way of life we associate with teenagers, others as narrow as those we associate with bodybuilders — or with politicians.
 
 ### Countercultures
 
+- The values and norms of most subcultures blend in with mainstream society.
+- In some cases, however, some of the group’s values and norms place it at odds with the dominant culture. Sociologists use the term **counterculture** to refer to such groups e.g. white supremacists, Nazis or confederates, etc.
+- As people who associate with the counterculture attack the values of the larger dominant culture, members of the mainstream culture may ridicule or even isolate members of the counterculture.
+
 ### High Culture
 
+- High culture encompasses the cultural products of aesthetic value, which a society collectively esteem as exemplary art. At times, it is mostly mixed with aristocracy.
+- Examples are artistic architecture, films, music, art, etc.
+
 ### Popular Culture
+
+- Culture based on the tastes of ordinary people rather than an educated elite.
+- Examples are videogames, politics, fashion, etc.
+
+### Multiculturalism
+
+- The definition of multicultural is something that incorporates ideas, beliefs or people from many different countries and cultural backgrounds. 
+- When people of different cultures come together to celebrate and share their different traditions this is an example of a multicultural celebration.
+
 
 ### Ideal versus Real Culture
 
 - Many of the norms that surround cultural values are followed only partially.
 - **Ideal Culture**: culture a people’s ideal values and norms; the goals held out for them e.g. we want to ideal Muslims by following Islamic principles to the tee.
 - **Real Culture**: the norms and values that people actually follow; as opposed to ideal culture e.g. what we actually practice as Muslims which may not be ideal such as crime even in Muslim societies.
-
 
 ### Cultural Shock
 
@@ -215,7 +248,7 @@ date: 2020-08-05
 
 #### The New Technology
 
-- People make technology all the time but most of the time it has very little impact. Sometimes, it has a huge impact on human lives e.g. the printing press, factories, assembly line, microchips, etc.
+- People make technology all the time but most of the time it has very little impact. Sometimes, however, it has a huge impact on human lives e.g. the printing press, factories, assembly line, microchips, etc.
 - This emerging technology is known as **new technology**.
 - *However, this new technology sets the framework for a group's non-material culture as well.*
 
