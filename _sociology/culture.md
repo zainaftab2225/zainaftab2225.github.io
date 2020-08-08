@@ -83,7 +83,8 @@ date: 2020-08-05
     3. Language enables us to agree on times, dates, and places. Concept of time would not exist without language.
     4. Language allows shared perspectives by communication.
     5. Language allows shared, goal-directed behavior.
-  - **Sapir-Whorf Hypothesis**: Edward Sapir and Benjamin Whorf’s hypothesis that language creates ways of thinking and perceiving. Language isn't just for expressing our thoughts, they claimed, but they also *shaped* our thoughts. In Urdu, you may call a club sandwich or a Subway sandwich as just a sandwich but for English speakers, subs and sandwiches are different. Jam and jelly is same for people who speak Urdu but quite different for native English speakers.
+
+    - **Sapir-Whorf Hypothesis**: Edward Sapir and Benjamin Whorf’s hypothesis that language creates ways of thinking and perceiving. Language isn't just for expressing our thoughts, they claimed, but they also *shaped* our thoughts. In Urdu, you may call a club sandwich or a Subway sandwich as just a sandwich but for English speakers, subs and sandwiches are different. Jam and jelly is same for people who speak Urdu but quite different for native English speakers.
 
 3. **Beliefs**
 
