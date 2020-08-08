@@ -45,6 +45,10 @@ date: 2020-08-05
 9. **Transmissive**
   - Culture is capable of being transmitted from one generation to the next or from one society to another.
   - Parents can pass culture to their children or a foreigner can come visit your country and pass their cultural traits to you if the traits seem acceptable and useful.
+10. **Continuous and Cumulative**
+  - Culture exists as a continuous process where it's growth is cumulative.
+  - Culture is a *growing whole* that includes itself, the past and the present achievements, and makes provision for the future.
+  - Think of culture as an increasingly large stream flowing downwards from one generation to the next.
 
 ### Types of Culture
 
@@ -56,7 +60,36 @@ date: 2020-08-05
   - **Non-material Culture**: a group’s ways of thinking (including its beliefs, values, and other assumptions about the world) and doing (its common patterns of behavior, including language and other forms of interaction); also called *symbolic culture*.
   -  There is nothing “natural” about nonmaterial culture. It is just as arbitrary to stand in line as to push and shove.
 
-### Functions of Culture
+### Functions/Impacts of Culture
+
+1. **Transfer of Knowledge and Values**
+  - Culture provides and preserves knowledge which is transmitted from one generation to the next.
+  - Knowledge is essential for the physical, social and intellectual existence of man.
+2. **Defines Situations**
+  - Culture defines social situations for us.
+  - For example, you do not wear colorful clothes and listen to music at a funeral. Your culture has defined the situation of a funeral. It is a gloomy event.
+  - As a counter example, tribes in Madagascar actually dance with the dead as a celebration of this life and the afterlife.
+3. **Provides Behavior Patterns**
+  - Culture restricts the behavior patterns of individuals.
+  - For example, the behavior of a teen in the US is quite different from a teen in the East. The teenager from the US may be more independent and free in their actions whereas a teen in the East is sheltered by their parents.
+4. **Molds Personality**
+  - Culture has a huge influence on our personalities and sets limits on our growths.
+  - For example, we make proper lines at the airport in Pakistan but at the local bus station, pushing and shoving is the norm. This is a part of everyone's personality here. A foreigner who has not experienced the pushing and shoving might feel uncomfortable as it is not a part of their personality.
+5. **Goals and Opportunities**
+  - Culture decides what our goals and opportunities are.
+  - In USA, women are generally more independent financially so they have to pursue education to make a living for themselves. In Pakistan, the burden of finances is the goal of the man whereas the woman takes care of the household.
+  - During the Cold War, there was a culture of space exploration and every child wanted to be an astronaut. Their culture shaped the goals they wanted to achieve in life. Nowadays, astronauts are cool but we don't really see the appeal anymore.
+6. **Acceptance**
+  - Culture gives you acceptance in the society if a person takes active part in it.
+  - In Muslim culture, praying at the mosque is considered a good thing. If you do at the mosque, your society will show more acceptance towards you.
+7. **Legends and Heroes**
+  - Cultural history provides legends and heroes to the group e.g. MM Alam for Pakistan, Abraham Lincoln for USA, etc.
+8. **Identity**
+  - Culture provides an identity to the group.
+  - For example, Muslim women cover their head, Indian cuisine, etc.
+9. **Integration**
+  - As culture is shared between a group, there is a sense of integration and affiliation.
+  - In Muslim culture, territorial boundaries are meaningless when it comes to the suffering of Kashmiris or Palestinians. Pakistan condemns Israeli acts even though it is not directly affected. 
 
 ### Organization of Culture
 
