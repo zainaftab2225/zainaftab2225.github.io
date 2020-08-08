@@ -7,19 +7,60 @@ date: 2020-08-05
 ### Introduction
 
 - **Culture**: the language, beliefs, values, norms, behaviors, and even material objects that characterize a group's **way of life** and are passed from one generation to the next.
+- Sir Edward Burnett Taylor, founder of cultural anthropology, defined culture as "knowledge, belief, art, law, morals, customs, any other capabilities acquired by men as members of a society."
+- Individuals are not self-sufficient so they live together and develop a culture.
+- Culture varies from group to group.
 - An example would be a young Pakistan girl who went to the US. Her culture will be different than the Americans. She'll dress differently, think differently, eat differently, etc.
+
+
+### Characteristics of Culture
+
+1. **Learned**
+  - Culture does not occur naturally or biologically; it is learned from others whether it be your own group (family, friends, etc.) or an outside group like the US society.
+  - Unlearned behavior such as closing your eyes to sleep isn't considered part of culture.
+2. **Shared**
+  - Culture is shared between the group.
+  - Even if you have a certain ideology but it is not acceptable to the culture of your group, then it is not a part of your culture.
+  - An example would be that you consider drinking alcohol fine in a Muslim society; you may drink but it is still not a part of your culture.
+3. **Symbols**
+  - Every culture has certain symbols associated with it.
+  - For example, flags, dresses, traffic lights, nodding for agreement are all symbols which are part of our culture.
+4. **Integrated**
+  - Culture integrates the individuals and unites them.
+  - It provides them with an identity.
+  - For example, there is a culture of barbeque on Eid holidays in Pakistan. This provides Pakistanis with an identity because in other non-Muslims countries, they don't celebrate Eid or do barbeque on Eid - it is specific to Pakistani culture.
+5. **Dynamic**
+  - Another characteristic of culture is that it changes over time.
+  - Cultural traits from other cultures may end up in your culture e.g. technology from the West has become a part of the Pakistani culture as well, the nuclear family structure is becoming increasingly common in Pakistan, etc.
+6. **Adaptive**
+  - Culture adapts to new things due to changing needs for survival.
+  - For example, the Native Americans adapted their culture to include the use of horses when the Europeans introduced horses in the New World. They even started using guns for their hunting.
+7. **Social**
+  - Culture does not exist in isolation and a single individual can't have a culture.  
+  - It is a product of social interaction between individuals; hence it is *social*.
+8. **Variable**
+  - No two cultures are the same. They may have similar traits but culture differs from society to society.
+  - An example would be that the culture of US is quite different from the culture of the subcontinent.
+  - Another example would be that Pakistani and Indian cultures are quite similar in many aspects but they are distinctly two different cultures because of their ideologies with respect to religion.
+9. **Transmissive**
+  - Culture is capable of being transmitted from one generation to the next or from one society to another.
+  - Parents can pass culture to their children or a foreigner can come visit your country and pass their cultural traits to you if the traits seem acceptable and useful.
 
 ### Types of Culture
 
-#### 1. Material Culture
+1. **Material Culture**
+  - **Material Culture**: the material objects that distinguish a group of people, such as their art, buildings, weapons, utensils, machines, hairstyles, clothing, and jewelry.
+  - There is nothing “natural” about material culture. Arabs wear gowns on the street and feel that it is natural to do so. Americans do the same with jeans.
 
-- **Material Culture**: the material objects that distinguish a group of people, such as their art, buildings, weapons, utensils, machines, hairstyles, clothing, and jewelry.
-- There is nothing “natural” about material culture. Arabs wear gowns on the street and feel that it is natural to do so. Americans do the same with jeans.
+2. **Non-material Culture**
+  - **Non-material Culture**: a group’s ways of thinking (including its beliefs, values, and other assumptions about the world) and doing (its common patterns of behavior, including language and other forms of interaction); also called *symbolic culture*.
+  -  There is nothing “natural” about nonmaterial culture. It is just as arbitrary to stand in line as to push and shove.
 
-#### 2. Non-material Culture
+### Functions of Culture
 
-- **Non-material Culture**: a group’s ways of thinking (including its beliefs, values, and other assumptions about the world) and doing (its common patterns of behavior, including language and other forms of interaction); also called *symbolic culture*.
--  There is nothing “natural” about nonmaterial culture. It is just as arbitrary to stand in line as to push and shove.
+### Organization of Culture
+
+
 
 ### Elements of Symbolic Culture
 
@@ -27,37 +68,46 @@ date: 2020-08-05
 - A symbol is something to which people attach meaning and that they use to communicate with one another.
 - Symbols include gestures, language, beliefs, values, norms, customs and sanctions.
 
-#### 1. Gestures
+1. **Gestures**
+  - **Gestures**: the ways in which people use their bodies to communicate with one another.
+  - Gestures can lead to misunderstanding, embarrassment, or worse because they differ around the world e.g. handshaking is a greeting gesture in the US whereas bowing down is a greeting gesture in Japan. This may create confusion on how to greet the other person depending on their culture.
+  - Although most gestures are learned, and therefore vary from culture to culture, some gestures that represent fundamental emotions such as sadness, anger, and fear appear to be inborn.
+  - A crying child in India differs little from a crying child in China — or the United States or anywhere else on the globe. In a few years, however, the child will demonstrate a variety of gestures highly specific to his Hindu culture.
 
-- **Gestures**: the ways in which people use their bodies to communicate with one another.
-- Gestures can lead to misunderstanding, embarrassment, or worse because they differ around the world e.g. handshaking is a greeting gesture in the US whereas bowing down is a greeting gesture in Japan. This may create confusion on how to greet the other person depending on their culture.
-- Although most gestures are learned, and therefore vary from culture to culture, some gestures that represent fundamental emotions such as sadness, anger, and fear appear to be inborn.
-- A crying child in India differs little from a crying child in China — or the United States or anywhere else on the globe. In a few years, however, the child will demonstrate a variety of gestures highly specific to his Hindu culture.
+2. **Language**
+  - **Language**: a system of symbols that can be combined in an infinite number of ways and can represent not only objects but also abstract thought.
+  - Like gestures, in different cultures the same sound may mean something entirely different — or may have no meaning at all e.g. gift in English means poison in German. If you give chocolates to a German and say, "gift, eat..", you'll be telling a German person to eat poison.
+  - **Functions of Language**
+    1. By means of language, we pass ideas, knowledge, and even attitudes on to the next generation.
+    2. By attaching words to an event and then using those words to recall it, we are able to discuss the event. In other words, no language means no memories.
+    3. Language enables us to agree on times, dates, and places. Concept of time would not exist without language.
+    4. Language allows shared perspectives by communication.
+    5. Language allows shared, goal-directed behavior.
+  - **Sapir-Whorf Hypothesis**: Edward Sapir and Benjamin Whorf’s hypothesis that language creates ways of thinking and perceiving. Language isn't just for expressing our thoughts, they claimed, but they also *shaped* our thoughts. In Urdu, you may call a club sandwich or a Subway sandwich as just a sandwich but for English speakers, subs and sandwiches are different. Jam and jelly is same for people who speak Urdu but quite different for native English speakers.
 
-#### 2. Language
+3. **Beliefs**
 
-- **Language**: a system of symbols that can be combined in an infinite number of ways and can represent not only objects but also abstract thought.
-- Like gestures, in different cultures the same sound may mean something entirely different — or may have no meaning at all e.g. gift in English means poison in German. If you give chocolates to a German and say, "gift, eat..", you'll be telling a German person to eat poison.
-- **Functions of Language**
-  1. By means of language, we pass ideas, knowledge, and even attitudes on to the next generation.
-  2. By attaching words to an event and then using those words to recall it, we are able to discuss the event. In other words, no language means no memories.
-  3. Language enables us to agree on times, dates, and places. Concept of time would not exist without language.
-  4. Language allows shared perspectives by communication.
-  5. Language allows shared, goal-directed behavior.
-- **Sapir-Whorf Hypothesis**: Edward Sapir and Benjamin Whorf’s hypothesis that language creates ways of thinking and perceiving. Language isn't just for expressing our thoughts, they claimed, but they also *shaped* our thoughts. In Urdu, you may call a club sandwich or a Subway sandwich as just a sandwich but for English speakers, subs and sandwiches are different. Jam and jelly is same for people who speak Urdu but quite different for native English speakers.
-
-#### 3. Beliefs
-#### 4. Values
-
-- **Values**: the standards by which people define what is desirable or undesirable, good or bad, beautiful or ugly.
-- As an example, the US society has these core values: achievement, individualism, material comfort, hard work, equality, and group superiority (even though it is contradictory to equality).
-- **Value Cluster**: values that together form a larger whole. Values are not independent units; some cluster together to form a larger whole e.g. achievement, hard work and material comfort all come under the value of *success* in life which is a value cluster.
-- **Value Contradictions**: values that contradict one another; to follow the one means to come into conflict with the other e.g. equality and group superiority.
+4. **Values**
+ - **Values**: the standards by which people define what is desirable or undesirable, good or bad, beautiful or ugly.
+ - Values aren't something in writing, they are just generally agreed upon e.g. lying is consider bad but there isn't necessarily a law to punish lying.
+ - As an example, the US society has these core values: achievement, individualism, material comfort, hard work, equality, and group superiority (even though it is contradictory to equality).
+ - **Value Cluster**: values that together form a larger whole. Values are not independent units; some cluster together to form a larger whole e.g. achievement, hard work and material comfort all come under the value of *success* in life which is a value cluster.
+ - **Value Contradictions**: values that contradict one another; to follow the one means to come into conflict with the other e.g. equality and group superiority.
+5. Norms
+6. Customs
+7. Sanctions
 
 
-#### 5. Norms
-#### 6. Customs
-#### 7. Sanctions
+
+
+### Subcultures
+
+
+### Countercultures
+
+### High Culture
+
+### Popular Culture
 
 ### Ideal versus Real Culture
 
