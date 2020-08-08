@@ -1,6 +1,6 @@
 ---
 title: "Culture"
-excerpt: “Symbols, functions and conflicts make a society.”
+excerpt: “Everything about culture.”
 date: 2020-08-08
 ---
 
