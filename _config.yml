@@ -297,6 +297,9 @@ collections:
   internationalrelations:
       output: true
       permalink: /:collection/:path/
+  worldhistory:
+      output: true
+      permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -374,6 +377,18 @@ defaults:
   - scope:
       path: ""
       type: internationalrelations
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+      toc_sticky: true
+
+  # _internationalrelations
+  - scope:
+      path: ""
+      type: worldhistory
     values:
       layout: single
       author_profile: true

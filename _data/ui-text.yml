@@ -40,6 +40,7 @@ en: &DEFAULT_EN
   recent_genderstudies_post  : "Recent Gender Studies Post"
   recent_historyofusa_post   : "Recent US History Post"
   recent_criminology_post    : "Recent Criminology Post"
+  recent_worldhistory_post    : "Recent World History Post"
   recent_cs_post             : "Recent Computer Science Post"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"

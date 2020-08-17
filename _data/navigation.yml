@@ -20,6 +20,8 @@ main:
     url: /genderstudies/
   - title: "International Relations"
     url: /internationalrelations/
+  - title: "World History"
+    url: /worldhistory/
 
   # - title: "CSS Posts"
   #  url: /css-page/
