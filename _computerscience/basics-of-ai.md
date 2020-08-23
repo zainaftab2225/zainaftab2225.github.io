@@ -35,3 +35,6 @@ toc: true
 - There are many different kind of functions that we can use. It doesn't have to be a step function. Some more functions are given below.
 
 ![image-center](/images/computerscience/supervised_learning_02.JPG){: .align-center}
+
+- **Precision:** How much you should trust your program when it says it has found something e.g. it tells you it found 10 triangles and out of those, 8 were actually triangles. So precision is 80%.
+- **Recall:** How much your program can find the thing from the data you're actually looking for e.g. there were 200 triangles in the data set out of which it found 10 of which 8 were actually triangles. So the recall is 8/200*100 = 4%. That's a pretty bad recall rate.
