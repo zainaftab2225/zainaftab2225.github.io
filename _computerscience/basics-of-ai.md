@@ -28,7 +28,7 @@ toc: true
 - **Supervised Learning:** The process of learning *with* training labels. The supervisor knows the correct answer and points out mistakes during the learning process.
 - An easy example would be to classify images of animals which are mammals or not. This AI needs to be *trained* by examples after which it should be able to classify images it hasn't seen before. Another example is how spam emails are classified.
 - Inspired by human brains and neurons, psychologist Frank Rosenblatt created the Perceptron to classify whether a shape is a triangle or not a triangle. Now, we just program our computers to behave like neurons.
-- Below is a simple example of how to use a step function as an activation function to either get true or not true (false). Neurons have inputs and weights that are added and if they go above the threshold weight called the bias (can be adjusted), the neuron will output a 1 otherwise a 0.
+- Below is a simple example of how to use a step function as an activation function to either get true or not true (false). The neuron has inputs and weights that are added and if they go above the threshold weight called the bias (can be adjusted), the neuron will output a 1 otherwise a 0.
 
 ![image-center](/images/computerscience/supervised_learning_01.JPG){: .align-center}
 
@@ -38,3 +38,16 @@ toc: true
 
 - **Precision:** How much you should trust your program when it says it has found something e.g. it tells you it found 10 triangles and out of those, 8 were actually triangles. So precision is 80%.
 - **Recall:** How much your program can find the thing from the data you're actually looking for e.g. there were 200 triangles in the data set out of which it found 10 of which 8 were actually triangles. So the recall is 8/200*100 = 4%. That's a pretty bad recall rate.
+
+### Neural Networks and Deep Learning
+
+- What if there is more than one neuron? Our brain has ~100 billion neurons. If we connect a bunch of Perceptrons together, we can create what's called an **artificial neural network**.
+- Neural networks are one of the most dominant machine learning technologies used today.
+- Neural Network Architecture:
+  - Input Layer
+  - Output Layer
+  - Hidden Layers
+- A neural network is kind of a block box that does math and spits out an answer.
+- In the example below, we are trying to detect a dog in a grayscale image. Each number in the input layer represents the brightness of the pixel. Each neuron in the hidden layers may focus on a complexity e.g. the curve of the nose. So it will try to detect the upper part as bright and lower part as dark and apply weights accordingly. It squishes the results between 0 and 1 and passes it to the next layer and so on. When we reach the output layer, if the value is close to 1 then the computer has actually detected a dog.
+
+![image-center](/images/computerscience/neural_network_1.JPG){: .align-center}
