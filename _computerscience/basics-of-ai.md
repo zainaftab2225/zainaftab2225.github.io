@@ -1,7 +1,7 @@
 ---
 title: "Basics of AI"
 excerpt: "AI, Machine Leaning and much more.."
-date: 2020-07-08
+date: 2020-07-23
 toc: true
 ---
 
