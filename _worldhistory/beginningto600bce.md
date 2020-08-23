@@ -33,3 +33,5 @@ date: 2020-08-17
 - Humans began to use the earth’s resources in new ways when they constructed semi-permanent settlements.
 
 ![image-center](/images/worldhistory/human_origins_2.jpg){: .align-center}
+
+### 
