@@ -51,3 +51,11 @@ toc: true
 - In the example below, we are trying to detect a dog in a grayscale image. Each number in the input layer represents the brightness of the pixel. Each neuron in the hidden layers may focus on a complexity e.g. the curve of the nose. So it will try to detect the upper part as bright and lower part as dark and apply weights accordingly. It squishes the results between 0 and 1 and passes it to the next layer and so on. When we reach the output layer, if the value is close to 1 then the computer has actually detected a dog.
 
 ![image-center](/images/computerscience/neural_network_1.JPG){: .align-center}
+
+- If a neural network makes a mistake, this often means that the weights aren't adjusted correctly. They need to be updated to make better predictions next time.
+- **Optimization:** The task of finding the best weights for a neural network architecture is called optimization.
+- **Linear regression:** Optimization strategy that attempts to model the relationship between two variables by drawing a random linear line between the variables on a graph. The summed distance between the line and each of those data points on the graph is our *error*. We've quantified how big of an error we've made. The goal of linear regression is to adjust the line to make the error as small as possible. The resultant line is called the *line of best fit* as seen below.
+
+![image-center](/images/computerscience/neural_network_2.JPG){: .align-center}
+
+- Some parts of the example above defy logic though. Negative people show up on a cold day and a lot of people show up on a burning hot day. To get more *accurate* results, we can use more than just temperature and number of people e.g. humidity, rain, etc. However, if we add more features, we can't visualze it and the optimization gets trickier.
