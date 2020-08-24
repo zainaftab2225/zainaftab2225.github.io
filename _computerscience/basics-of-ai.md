@@ -77,5 +77,14 @@ toc: true
   - **Learning rate:** The change in weights each time backpropagation occurs. If it is too much, you might jump over your solution. It it is too small, it might take a lot of time to reach the solution.
   - Over time, backpropagation will adjust the neuron weights, so that neural network's output matches the training data. This is called **fitting to the training data**.
   - If there are a ton of inputs e.g. humidity, temperature, population of the city, per capita income, etc., number of butterflies, that might add to more accurate results but also require more processing power.
-  - - However, the network may train *too well*. The network may learn the details and noise in the training data to the extent that it negatively impacts performance of new data, this is called **overfitting**. Keep the neural network simple to avoid overfitting.
+  - However, the network may train *too well*. The network may learn the details and noise in the training data to the extent that it negatively impacts performance of new data, this is called **overfitting**. Keep the neural network simple to avoid overfitting.
   - Now provide a new set of inputs to see if the neural network has learnt and predict better.
+
+####  Training a Neural Network to Read Handwriting
+
+- **Step 1:** Find or create a labeled dataset to train our neural network.
+  - Split the data set into *training set* and *testing set*.
+- **Step 2:** Create a neural network.
+  - This involves creating an input layer, hidden layers and an output layer.
+- **Step 3:** Train, test and tweak the code until we feel it is accurate enough.
+- **Step 4:** Scan handwritten pages and use the neural network to convert them into typed text.
