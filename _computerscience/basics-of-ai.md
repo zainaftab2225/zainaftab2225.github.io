@@ -39,7 +39,7 @@ toc: true
 - **Precision:** How much you should trust your program when it says it has found something e.g. it tells you it found 10 triangles and out of those, 8 were actually triangles. So precision is 80%.
 - **Recall:** How much your program can find the thing from the data you're actually looking for e.g. there were 200 triangles in the data set out of which it found 10 of which 8 were actually triangles. So the recall is 8/200*100 = 4%. That's a pretty bad recall rate.
 
-### Neural Networks and Deep Learning
+#### Neural Networks and Deep Learning
 
 - What if there is more than one neuron? Our brain has ~100 billion neurons. If we connect a bunch of Perceptrons together, we can create what's called an **artificial neural network**.
 - Neural networks are one of the most dominant machine learning technologies used today.
@@ -53,7 +53,7 @@ toc: true
 ![image-center](/images/computerscience/neural_network_1.JPG){: .align-center}
 
 
-### Training a Neural Network
+#### Training a Neural Network
 
 - If a neural network makes a mistake, this often means that the weights aren't adjusted correctly. They need to be updated to make better predictions next time.
 - **Optimization:** The task of finding the best weights for a neural network architecture is called optimization.
@@ -88,3 +88,18 @@ toc: true
   - This involves creating an input layer, hidden layers and an output layer.
 - **Step 3:** Train, test and tweak the code until we feel it is accurate enough.
 - **Step 4:** Scan handwritten pages and use the neural network to convert them into typed text.
+
+
+### Unsupervised Learning
+
+- In supervised learning, we're triying to build a model to *predict* an *answer* or *label* provided by a teacher.
+- In **unsupervised learning**, instead of a teacher, the world around us is basically providing training labels e.g. can you predict what happens when you throw a tennis ball at a wall? Unsupervised learning is about modelling the world by guesses like this. Babies do a lot of unsupervised learning.
+- Recognizing different properties and creating categories for them is called **unsupervised clustering**. The key assumption is that certain objects are more similar than others and/or share properties e.g. animals that walk on four legs can be a category.
+- To construct a model, we answer two key questions:
+  1. what observations can we measure?
+  2. how do we want to represent the world? An assumption is that there are clusters in our data.
+- Specifically, there are some number of groups called **K-clusters** but we don't know where they are. To help us identify these clusters, we will use K-means clustering algorithm.
+- **K-means Clustering:** K-means clustering is a simple algorithm. It needs a way to *compare* observations, a way to *guess* how many clusters exist in the data, and a way to calculate *averages* for each cluster it predicts. Firstly, it will predict what the world looks like (how many clusters). Secondly, it will update/learn.
+
+
+![image-center](/images/computerscience/kmeans_clustering_1.PNG){: .align-center}
