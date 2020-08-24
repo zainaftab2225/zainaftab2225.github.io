@@ -100,6 +100,22 @@ toc: true
   2. how do we want to represent the world? An assumption is that there are clusters in our data.
 - Specifically, there are some number of groups called **K-clusters** but we don't know where they are. To help us identify these clusters, we will use K-means clustering algorithm.
 - **K-means Clustering:** K-means clustering is a simple algorithm. It needs a way to *compare* observations, a way to *guess* how many clusters exist in the data, and a way to calculate *averages* for each cluster it predicts. Firstly, it will predict what the world looks like (how many clusters). Secondly, it will update/learn.
+- In the example below, we'll map different flower petals based on their length and width. We believe there are 3 different types (or clusters) of flowers: type 1, type 2 and type 3. These clusters will have three random averages. Our model will try to correct itself by calculating new averages. We can predict that similar flowers will have similar length and width. Using this new prediction and the calculation of averages, we'll give data points labels of the averages.
 
 
-![image-center](/images/computerscience/kmeans_clustering_1.PNG){: .align-center}
+**Before:**
+![image-center](/images/computerscience/kmeans_clustering_1.JPG){: .align-center}
+
+**After:**
+![image-center](/images/computerscience/kmeans_clustering_2.JPG){: .align-center}
+
+
+- Another example of unsupervised learning is to sort a bunch of different photos.
+- We use **representation learning** find patterns across many different images. These patterns help us understand what is *in* the image and how to compare them to each other.
+- Representation learning happens in both *supervised* and *unsupervised* learning models, so we can do it with or without labels to find patterns in the world.
+- Our AI will have learned image representations instead of averages unlike before. After that, the AI will correct itself based on it's reconstruction. A neural network called **autoencoder** can take in an image as the input layer and output a whole reconstruction of the original image.
+- Unsupervised learning is an huge area of active research.
+
+#### Natural Language Processing
+
+- 
