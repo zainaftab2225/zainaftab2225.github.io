@@ -118,4 +118,32 @@ toc: true
 
 #### Natural Language Processing
 
-- 
+- Natural Language Processing (NLP) mainly explores two big ideas:
+  1. **Natural Language Understanding:** how we get meaning out of combination of letters.
+  2. **Natural Language Generation:** how to generate language from knowledge.
+- The key to both problems is understanding the meaning of a word.
+- Challenges:
+  1. Words have no meaning on their own.
+  2. Context matters.
+- Sometimes we can compare words by looking at the letters they share e.g. if it has *morphology* i.e. swim-swimmer-swimming, think-thinker-thinking, etc.
+- One common way to guess that words have similar meaning is using **distributional semantics**. In other words, seeing which words appear in the same sentences a lot. One simple technique to do is through count vectors.
+- **Count Vector:** Number of times a word appears in the same article or sentence as other common words. If two words show up in the same sentence, they probably have similar meanings.
+- An example would be the comparison of the words: car, cat and felidae. Open up the wikipedia articles of all these and see which ones show up. The cat page and the felidae page will have similar words e.g. species, cat, felidae, pet, etc.
+- Count vectors are extremely space intensive so instead, we use a encoder-decoder model. A model that can make internal representations and that can generate predictions - what to remember from a sentence done by the encoder, what to say afterwards done by the decoder e.g. "I love chocolate ____" is the sentence and we have to guess the blank. Our encoder can focus on 'chocolate' and then pull data which is linked to chocolate (milk, cookies, cake, etc.).
+- We can also use **recurrent neural networks** to predict words in a sentence as well by giving random vector values to words and then training the network to give similar words similar vector values.
+- Steps of NLP Example:
+  1. Clean and preprocess data (stemming of morphology words, tokenizing lexical types and tokens, generating unique unknown types, etc.).
+  2. Convert every word into a number.
+  3. Use an embedding matrix to create a large matrix where each row corresponds to a different word. Put random numbers for each word at the start.
+  ![image-center](/images/computerscience/kmeans_clustering_1.JPG){: .align-center}
+  4. Use RNN and train the model. By using the sentences given, the model will figure out what to predict next in the sentence.
+  5. Make predictions.
+
+
+### Reinforcement Learning
+
+- Basically, trial and error.
+- Reinforcement learning is useful for situations where we want to train AIs to have certain skills we don't fully understand ourselves e.g. walking is easy but what's the optimal way to walk? What should the angle be of your foot relative to the ground, what should be the velocity, and so many other variables are involved?
+- **Reward** the AI if it does takes a good step but hard to predict if the step is actually good until the end of the task. This is called the problem of **credit assignment**.
+- After it does successfully complete a task, we can go back and look at which steps were helpful and which weren't.
+- In reinforcement learning, we need a balance between **exploitation** and **exploration**.
