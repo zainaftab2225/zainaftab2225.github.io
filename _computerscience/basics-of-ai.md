@@ -135,7 +135,7 @@ toc: true
   1. Clean and preprocess data (stemming of morphology words, tokenizing lexical types and tokens, generating unique unknown types, etc.).
   2. Convert every word into a number.
   3. Use an embedding matrix to create a large matrix where each row corresponds to a different word. Put random numbers for each word at the start.
-  ![image-center](/images/computerscience/kmeans_clustering_1.JPG){: .align-center}
+  ![image-center](/images/computerscience/embedding_matrix_1.JPG){: .align-center}
   4. Use RNN and train the model. By using the sentences given, the model will figure out what to predict next in the sentence.
   5. Make predictions.
 
