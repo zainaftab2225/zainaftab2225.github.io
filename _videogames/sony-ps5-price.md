@@ -1,5 +1,5 @@
 ---
-title: "PS5 - But What About The {rice?"
+title: "PS5 - But What About The Price?"
 excerpt: "Sony unveiled an impressive device, but what's the price?"
 date: 2020-07-22
 ---
