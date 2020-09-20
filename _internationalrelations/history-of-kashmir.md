@@ -115,3 +115,16 @@ date: 2020-09-19
 - To achieve something tangible, a formidable force joined the battle: the Pakistan army.
 
 ## Kargil
+
+- Even to this day, Kargil is a taboo subject in Pakistan. The refusal to acknowledge what happened at Kargil has permeated the Pakistan military itself.
+- In the spring of 1999, Pakistani troops occupied over 40 square miles of Indian-held territory without firing a single shot. The operation relied on stealth.
+- India’s tactics for controlling the territory around Kargil were largely determined by the area’s hostile climate. When it was too cold, they evacuated the outposts. The Pakistani army took advantage of this fact.
+- India deployed troops and air force to take back the outposts; they were largely successful.
+- Kargil resulted in a clash between the civilian government and the military in Pakistan. Nawaz Sharif, the PM, claimed that he was not notified of the Kargil operation. It was a bad image internationally as it suggested that Pakistan had a rogue army. Pakistan army denied any rogueness and stated that Nawaz Sharif knew about Kargil.
+- For all its efforts to concentrate world opinion on India’s human rights abuses in Kashmir, Pakistan had instead managed to enhance its image as an aggressive and unpredictable state.
+- It is often said that the Kashmir dispute will not be solved because significant power centres in India and Pakistan have an interest in sustaining the conflict. There is some truth in this argument.
+  - The armed forces in both countries use the Kashmir issue to justify their
+huge shares of public expenditure.
+  - The conflict also provides a rallying cry for extremists and politicians.
+- For many in the international community, the Kargil dispute added weight to the view that the line of control should become an international border.
+- Unfortunately, ever since 1947 the views of the Kashmiris have been obscured by the dispute between India and Pakistan. 
