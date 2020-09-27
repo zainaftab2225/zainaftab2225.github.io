@@ -80,5 +80,47 @@ in 1970 at San Diego State College. As of 2012, there are 16 institutions offeri
 - 1990: Rise of third-wave of feminism.
 - 2000s: The great naming debate over Women’s Studies versus Gender Studies.
 
+## Difference between Gender Studies and Women Studies
+
+- Gender studies includes women studies, men studies and queer studies.
+- Academic experts argue that gender studies is a better term for women studies as analysis of both roles is important and how they play off one another.
+- The idea behind gender studies is that it is not enough to study women as a unique group to come to a true understanding of women's situation, we need to account for men's role as well.
+- In practice, however, there is little that differentiates between the two disciplines or what is taught. Every curriculum is different but both gender studies and women studies use feminist theories, discuss gender and the issues faced by women in the society.
+
+| Women Studies | Gender Studies |
+|------- | ---------|
+| Restricted to feminism | No restrictions |
+| Focus on women issues | Focus on gender relations |
+| Exclusive to women | Inclusive of all genders |
+| Focused study: women and their roles in the society | Diverse study: roles in society, how they are shaped, their impacts, etc. |
+
+
+## Multi-disciplinary Nature of Gender Studies
+
+- Global warming is at the same time an environmental issue, a scientific phenomena, a public health issue and a political discussion.
+- In the same vein, gender studies borrows knowledge of other disciplines such as:
+  - Sociology
+  - Psychology
+  - Biology
+  - History
+  - International politics
+  - Anthropology
+  - Economics
+  - Literature and Arts
+- One of the basic guiding principles in Gender/Women’s Studies is that all knowledge is deeply inter-related and cannot be compartmentalized into separate subject areas.
+- Multi-disciplinary research, in essence, involves two or more disciplines, each making a separate contribution to the overall study.
+- As early as 1976, Florence Howe, in her introduction to High School Feminist Studies, announced that "all women's studies courses are, by their very nature, interdisciplinary.
+- By 1991, the National Women's Studies Association announced that year that women's studies and women's studies programs are fundamentally interdisciplinary.
+- Why is it multi-disciplinary?
+  - The goal is to study gender from a feminist perspective and recognizing women’s experiences and ambitions.
+  - It also explores the ways that femininity and masculinity affect an individual’s thought process.
+  - It analyzes how gender plays out in politics, intimate life, culture, technology, health, science, etc.
+  - The increasing global concern about equal rights of sexes, their obligations and their opportunities has brought attention to gender studies.
+  - It also provides critical thinking skills.
+  - History has overlooked women contributions due to wars, conquests and display of brutality. Gender studies tries to highlight women’s role in history like in industry, agriculture and creativity.
+  - A separate gender studies discipline that is linked with other disciplines will help highlight issues of women and also not deprioritize them.
+
+
+## Autonomy vs. Integration Debate
 
 ## Status of Gender Studies in Pakistan
