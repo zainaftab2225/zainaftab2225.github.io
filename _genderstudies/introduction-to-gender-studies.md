@@ -10,7 +10,6 @@ date: 2020-09-27
 - A given culture associates certain *attitudes*, *feelings* and *behaviors* with a certain sex - this is called **gender**. The cultural basically expects a person to behave according to the gender (social role) assigned to them. If that behavior is compatible, it is called **gender-normative**. If that behavior is incompatible, it is called **gender non-conformity**.
 - At first, the gendered roles in society were assumed to be the natural result of one’s sex. However, cross-cultural studies demonstrate that while **sex is a universal condition; gender roles vary across culture**.
 - **Significance of Gender**: Our society is filled with problems like gender subordination and gender discrimination. So if gender is a social construct, then change is possible and these problems can be addressed.
--
 
 ### Difference between Sex and Gender
 
