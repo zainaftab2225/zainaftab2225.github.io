@@ -20,9 +20,9 @@ date: 2020-09-29
   3. **Qisas and Diyat Ordinance**: In September 1990, President Ghulam Ishaq Khan promulgated the Qisas (Physical) and Diyat (Blood Money) Ordinance, which provides punishments that are considered cruel and inhuman by international standards. This ordinance basically brought the *an eye for an eye* concept in Pakistan's law. Women were victimized using this law as well.
 - These laws combined with the religious extremism in state institutions were highly detrimental for the rights of women and minorities in Pakistan.
 - While women suffered under these laws, most of the actions taken by organizations such as Women Action Forum, were largely superficial.
-  - One such acvitity was called '**consciousness raising**' but it mostly consisted of fun activities like hosting parties, trivial fundraisers, etc.
+  - One such activity was called '**consciousness raising**' but it mostly consisted of fun activities like hosting parties, trivial fundraisers, etc.
   - Another view that was adopted at this time was the '**integrationist approach**'. Women were to be included in local bodies and departments. However, this changed nothing on the ground either.
-  - According to Sabeeha Hafeez, a Pakistani author, ‘the problem with these training programmes is that rather than targeting the source of patriarchy, they mostly taught the victims’.
+  - According to Sabeeha Hafeez, a Pakistani author, ‘the problem with these training programs is that rather than targeting the source of patriarchy, they mostly taught the victims’.
 - It must be mentioned here that not all feminists and NGOs fell prey to the ideology of gender training and integration. Some remained mainly committed to the political approach.
 - Even in present-day, the Government of Pakistan has taken an integrationist approach rather than a radical transformation of social structure. Governments tend to be more cautious and conservative and therefore, tend to remain far behind the actual demands of women who are suffering.
 
