@@ -123,4 +123,33 @@ in 1970 at San Diego State College. As of 2012, there are 16 institutions offeri
 
 ## Autonomy vs. Integration Debate
 
-## Status of Gender Studies in Pakistan
+- There is a debate whether to institutionalize women studies as an **autonomous department** or to **integrate** it into traditional disciplines as an academic *subfield*.
+
+### History
+
+- By the end of 1960s, women studies was offered in some universities in US which were taught by Women Studies Centers. This model inspired otehr countries to start such centers.
+- While these centers were being made, women studies was also being offered **within** disciplines.
+- In the 1970s, less than 20 women studies courses existed in the US.
+- In 1998, there were 9 PhD programmes in the US and Canada.
+- The National Women Studies Association (NWSA) was founded in 1977 as a communication network for syllabi and research regarding women. The first session of NWSA in 1979 discussed the topic, "**Is Women Studies an Academic Discipline?**"
+
+### Arguments for Autonomy
+
+- Separate decisions, hiring and resources will cultivate the subject better.
+- Visible professional identity and power-base.
+- Institutional marginality is necessary to counter historical patriarchy in academics.
+- Women studies is an entity in itself; it should be studied as a unit rather than scattered throughout all disciplines.
+- Autonomists believe that men will automatically be attracted to the discipline once it is separated as it will reflect power and self-control.
+- Separate women studies departments will not de-prioritize the feminist perspectives. Even today, women studies is neglected and marginalized in most countries. The only way to solve this is to take control and separate it.
+
+### Arguments for Integration
+
+- Autonomy will lead to **academic ghettoization**. Every topic and issue will want to become a discipline and it will divide academia.
+- Need to confront gender-blindness by including feminist perspectives in each discipline.
+- Need to 'mainstream' women studies which can't be done if the discipline is isolated.
+- Integrationists fear that men will no longer have access to women issues if the discipline is separated.
+
+### Conclusion
+
+- Over time, the debate led to a both/and strategy - both integration into disciplines and a development via interdisciplinary centers.
+- Jean Fox O' Barr, American feminist teacher and scholar, concluded that it is a both a discipline and an interdisciplinary field.
