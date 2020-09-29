@@ -89,3 +89,13 @@ date: 2020-09-29
 
 
 ### Research and Publications in Pakistan regarding Gender
+
+1. 16 thesis were published on gender issues at the MA level by WRRC, Fatima Jinnah Women University.
+2. The faculty of Institute of Women Development Studies at the University of Sindh, Jamshoro, has published two studies on women and family.
+3. The AIOU plans to publish a Gender/Women’s Studies Journal, which will focus on contemporary gender issues within a national and international perspective.
+
+### Funding Sources
+
+1. The WRRC of the Fatima Jinnah Women University is linked with Glasgow University, UK with help from the British Council.
+2. Karachi University's department received funds from the United Nations Development Programme (UNDP), ILO, Canadian International Development Agency (CIDA) and United Nations International Children’s Fund (UNICEF).
+3. The source of funding for the Department of Gender/Women’s Studies, Punjab University, is the government and the funding is channeled through the Higher Education Commission and the University.
