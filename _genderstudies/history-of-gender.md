@@ -103,10 +103,10 @@ date: 2020-09-29
 
 ## The Modern Era (1800-Present Day)
 
-- In the 19th and 20th century, women began demanding more and more rights.
+- In the 19th and 20th century, women began demanding more and more rights. These demands are categorized in largely three time periods: the first wave of feminism, the second wave of feminism and the third wave of feminism.
 - The demand for women's suffrage began in the 1840s. The **Seneca Falls Convention (1848)**, the first women's rights convention, demanded suffrage for women. The convention signed the **Declaration of Sentiments** which expressed that women and men were equal.
 - In 1890, the National American Woman Suffrage Association (NAWSA) with Susan B. Anthony as its leading force, was created.
 - After a hard-fought series of votes in the U.S. Congress and in state legislatures, the **Nineteenth Amendment** became part of the U.S. Constitution in 1920. It states, "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex."
 - In Pakistan, the constitution promises to not discriminate on the basis of sex.
 - When Malaysia got freedom from British colonialists, they gave rights to women in 1957.
-- **Modernization Theory and Women:** The theory states as nations develop, economic development and social change would lead to democracy. That, in turn, would lead to women getting rights and opportunities which would improve their lives. 
+- **Modernization Theory and Women:** The theory states as nations develop, economic development and social change would lead to democracy. That, in turn, would lead to women getting rights and opportunities which would improve their lives.
