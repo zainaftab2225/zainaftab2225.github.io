@@ -83,6 +83,30 @@ date: 2020-09-29
 - Many women accepted Christianity and Protestantism because of these inclusive views. However, some women paid a heavy price who dared to criticize the Catholic church. They were tortured and executed.
 - Even though Martin Luther was inclusive of women when it came to religion, he still thought women were not equal to men.
 
-## The Colonial Era
+## The Colonial Era (1600-1800 CE)
 
-## The Modern Era
+- Before the arrival of the Europeans, Native American women held important leadership roles. Future women's right activists would even look back to these Native American women as inspiration for their own fight for equal rights. With colonization and Christianity, women's high standing was largely lost.
+- Colonial white women in the Puritan era lived under Christian views imported from Europe. Some scholars argue that when colonialism started in the New World, women were scarce so they were given vital roles and prestige. They called it the **golden age of women**.
+- Life in early colonies was hard so women had to take on a variety of duties to survive such as labour, construction, etc. However, as time passed, women took on more traditional roles such as taking care of the farm and raising children.
+- In the **17th century**, the women in the colonies carried out a variety of tasks. As a result, gender roles were rather fluid early on. Women worked as nurses, midwives, and even arrived to America as **indentured servants** during this century.
+- By the **18th century**, the colonies had become well-established and so did typical gender roles. 18th century America was a patriarchal society where women were relegated to the private sphere. Some women did own businesses but they were largely expected to work at home.
+- Not all women were the same in the colonies. **Wealthy European women and wives of Southern plantation owners** enjoyed considerable freedom. Although their lifestyle was centered around the house, they still managed slaves and servants.
+- **Legal Rights of Colonial Women:**
+  - no right to vote.
+  - no right to hold public office.
+  - right to a will (single only).
+  - right to property (single only).
+  - they had the right to sue or be sued (single only).
+  - a widow received one-third interest in the personal property  of her deceased husband (one-half if there were no children)
+  - married women could not buy property, make a will or be sued. She had virtually no legal standing.
+- The worst of the bunch in the colonies, however, were the **African American women**. Not only were they colonial women with limited rights, they were also slaves. Slave women had multiple responsibilities and zero freedom. They took care of their owner's family, their owner's house and at the end of the day, their own family and small dwellings.
+
+## The Modern Era (1800-Present Day)
+
+- In the 19th and 20th century, women began demanding more and more rights.
+- The demand for women's suffrage began in the 1840s. The **Seneca Falls Convention (1848)**, the first women's rights convention, demanded suffrage for women. The convention signed the **Declaration of Sentiments** which expressed that women and men were equal.
+- In 1890, the National American Woman Suffrage Association (NAWSA) with Susan B. Anthony as its leading force, was created.
+- After a hard-fought series of votes in the U.S. Congress and in state legislatures, the **Nineteenth Amendment** became part of the U.S. Constitution in 1920. It states, "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex."
+- In Pakistan, the constitution promises to not discriminate on the basis of sex.
+- When Malaysia got freedom from British colonialists, they gave rights to women in 1957.
+- **Modernization Theory and Women:** The theory states as nations develop, economic development and social change would lead to democracy. That, in turn, would lead to women getting rights and opportunities which would improve their lives. 
