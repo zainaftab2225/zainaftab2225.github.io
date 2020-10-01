@@ -4,7 +4,7 @@ excerpt: "A short summary of how women existed in the past..."
 date: 2020-09-29
 ---
 
-##
+## Introduction
 
 - Women's historian, Mary Ritter, asserts that in 2500 years of written history, male writers overlooked the histories of females.
 - The history of mankind has been dominated by the political, economic and military exploits of an elite, powerful group of men.
