@@ -14,7 +14,7 @@ date: 2020-09-27
 ### Difference between Sex and Gender
 
 - **Sex** refers to a person’s biological and physiological status. It is typically categorized as male, female or intersex. There are a number of indicators of biological sex:
-  - Chromosomes
+  - Chromosomes (Males: XY, Females: XX)
   - Gonads
   - Internal reproductive organs
   - External genitalia
@@ -26,6 +26,16 @@ date: 2020-09-27
   1. **Sexual Identity**: the physical identity at birth.
   2. **Gender Identity**: the self-consciousness of one's own gender.
   3. **Gender Role**: the public expression of gender identity.
+
+- Basic Terminologies:
+  1. **Cisgender**: A person who is born with male characteristics and identify today as a man or vice versa is called cisgender.
+  2. **Transgender**: A person who is born with male characteristics and identify today as a woman or some other gender is called transgender.
+  3. **Sexual Orientation**: Classification of individuals as heterosexual, bisexual, or homosexual based on their emotional and sexual attractions.
+  4. **Heterosexual**: Attraction to people of the opposite sex.
+  5. **Homosexual**: Attraction to people of the same sex.
+  6. **Cross-Dresser**: Transgenders who dress in clothing of the other sex.
+  7. **Transsexual**: People whose sexual identity has been changed by sex reassignment surgery or hormone treatment.
+  8. **LGBTQ**: Lesbians-Gays-Bi-Trans-Queer
 
 | Sex | Gender |
 |------- | ---------|
