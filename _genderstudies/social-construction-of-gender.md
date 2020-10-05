@@ -133,3 +133,50 @@ date: 2020-10-1
 | Tactful | Blunt |
 
 ## Nature vs. Nurture: A Debate in Gender Development
+
+- There is an ongoing debate whether gender is based on biological differences or social differences.
+- As it stands today, gender in our current society is rather ambiguous. However, there are logical theories on both sides of the spectrum that needs to explored.
+
+
+### Biological Theories of Gender
+
+- Biological theory maintains that biological characteristics are the basis of gender differences.
+- Biological theories are characterized by:
+  1. Chromosomes
+  2. Hormonal activity
+  3. Brain structure
+  4. Nerves
+  5. Freud's Essentialism
+
+**Sex Chromosomes**
+- Males have XY chromosomes. Females have XX chromosomes.
+- Genetic evidence suggests that several genes that control intelligence and certain social skills are located only on the X chromosome.
+- This implies that some aspects of males' intelligence are inherited only from their mothers, whereas females inherit an X chromosome from each parent.
+
+**Hormones**
+- Sex hormones affect the development of the brain and the body.
+- Women's bodies produce **estrogen**, the primary female hormone. Estrogen strengthens the immune system which makes women more resistant to infections and viruses. Even in the recent COVID-19 pandemic, only 46% of the total cases reported were women. Estrogen causes fat tissue to form around women's hips which provides cushioning for a fetus during pregnancy. Furthermore, estrogen seems to impede liver functioning such that women eliminate alcohol more slowly than men.
+- Men's bodies produce **testosterone**, the primary male hormone. Higher levels of testosterone are linked to jockeying for power, attempts to influence or dominate others and physical expression of anger.
+- Research shows that girls favored trucks over dolls when their mothers had unusually high levels of testosterone and males who are given estrogen experience decline in spatial skills (navigation, estimation, etc.).
+
+**Brain Structure**
+- A third focus of biological theories is the difference of brain structure between males and females.
+- Men tend to have better development in the lobe that controls linear thinking, sequential information, spatial skills and analytical reasoning. Furthermore, the **amygdala** is larger in men which is the center of emotions like anger and fear. This may explain why men are more likely than women to engage in risky and aggressive behavior.
+- Women tend to have greater development of the lobe that controls imagination, artistic activity, intuitive thinking and multi-tasking. Furthermore, women have a larger **prefrontal cortex** which restrains aggression.
+
+**Nerves**
+- A bundle of nerves and connecting tissue called the **corpus callosum** links the lobes of the brain. Women generally can use this structure efficiently to use both lobes of the brain whereas men largely use one side of their brain.
+
+### Evolutionary Psychology
+
+- The primary concept of evolutionary psychology caters to the notion that the differences between genders and sexuality are a result of evolution and the different factors in men and women strategies for success.
+
+### Social Learning Theory
+
+### Cultural Sexism
+
+### Cognitive Development Theory: Gender Schema Theory
+
+### Psychodynamic Theory
+
+### Cultural Constructionism - Anthropological Theory
