@@ -105,7 +105,31 @@ date: 2020-10-1
 | Hormonal State | Testosterone  | Estrogen | Hormonal imbalances may occur in both sexes. Does that change their sex? |
 | Secondary Sex Characteristics | Beards  | Widening of hips; lower waist to hip ratio than adult males. |  These characteristics may be found in either sexes |
 
+- In **Klinefelter Syndrome (KS)**, also known as 47, XXY is the set of symptoms that result from two or more X chromosomes in males.[3] The primary features are infertility and small poorly functioning testicles. However, some countries classify two X chromosomes as the female sex. So people who are male and have Klinefelter syndrome, they will be considered as female in those countries.
+- In **Turner Syndrome**, a female is partly or completely missing an X chromosome. Some societies classify sex based on the number of X chromosomes. The same argument will apply if that a female has one X chromosome, does that make her a male? Hence, we can see that sometimes, even sex is socially constructed.
+- Who determines when the size of the genitalia is sufficient for male? Not every genitalia is of the same size. When is a male genitalia small enough to be categorized as a female genitalia?
+- Some tribes in Africa do not classify the sex of a baby until it matures to a certain point. This is also an example how sex is socially constructed.
 
 ## Masculinity vs. Femininity
+
+- Theorists argue that masculinity and femininity are also socially constructed ideas of gender.
+- A woman living in a mountainous region is going to much more braver and stronger than a man who is living in a city.
+- In the same way, a woman in England may express more feminine traits as compared a woman in a village in Pakistan.
+- Some traits that are associated with masculinity and femininity are listed below.
+
+| Masculinity | Femininity |
+|------- | ---------|
+| Competent | Empathetic |
+| Rational | Sensitive |
+| Assertive | Passive |
+| Independent | Dependent |
+| Aggressive | Submissive |
+| Strong-Headed  | Caring |
+| Dominant | Emotional |
+| Active | Passive |
+| Tough | Gentle |
+| Kind | Cruel |
+| Verbal | Analytical |
+| Tactful | Blunt |
 
 ## Nature vs. Nurture: A Debate in Gender Development
