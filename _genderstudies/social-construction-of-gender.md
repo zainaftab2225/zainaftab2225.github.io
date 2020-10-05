@@ -94,6 +94,18 @@ date: 2020-10-1
 
 ## Is "Sex" Socially Determined too?
 
+- It can be said that to an extent sex is also socially constructed.
+- Sex depends upon 6 main anatomical features described in the table below. However, there are cases where classification of sex based on these features becomes ambiguous.
+
+| Anatomical Feature | Male | Female | Ambiguous Case |
+|------- | ---------| ------- | ---------|
+| Chromosomes | XY  | XX |  Klinefelter Syndrome, Turner Syndrome |
+| External Genitalia | Penis | Vagina | Some people are born with ambiguous genitalia and are classified as intersex |
+| Gonads (Internal Genitalia) | Testicles | Ovaries | Internal genitalia of some people may not match their external genitalia |
+| Hormonal State | Testosterone  | Estrogen | Hormonal imbalances may occur in both sexes. Does that change their sex? |
+| Secondary Sex Characteristics | Beards  | Widening of hips; lower waist to hip ratio than adult males. |  These characteristics may be found in either sexes |
+
+
 ## Masculinity vs. Femininity
 
 ## Nature vs. Nurture: A Debate in Gender Development
