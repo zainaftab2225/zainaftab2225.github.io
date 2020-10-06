@@ -217,10 +217,45 @@ date: 2020-10-1
 
 ### Cultural Sexism
 
+- **Cultural sexism** refers to the ways the culture of society - norms, values, beliefs, symbols - perpetuates the subordination of an individual/group based on sex.
+- Sexism can be found in many different areas of our culture:
+  1. Education system; men are preferred to study in Pakistan over women as evident by the literacy rate.
+  2. Females are more likely to be in need of rescue and with fewer occupational roles than males.
+  3. Males are encouraged to participate in outdoor sports.
+  4. Media portrays females in a stereotypical fashion.
+  5. An image of a woman pops up in our head when we hear the words "nurse" but an image of a man pops up in our head when we hear the words "engineer".
+
 ### Cognitive Development Theory: Gender Schema Theory
+
+- **Gender Schema theory** was first developed by Sandra Bem in 1981.
+- It states that once children have form a basis of gender identity, they start developing gender schemas: **organized sets of beliefs about the sexes that influence behavior**.
+- This gender schema is learned through their:
+  1. Parents
+  2. Gender
+  3. Culture
+- After the child has figured out their gender schema, they start seeking information concerning the appropriate gender roles and traits.
+- Information that does not fit the gender schemas tend to be either forgotten or distorted to fit the schema e.g. if one day a child suddenly saw his father cook, he would be confused. As a result, **gender schemas promote gender stereotypes**.
+- According to Jean Piaget, children are detectives and **active seekers** who want to determine their gender. By the age of 3, they have an understand of genders. By the age of 6, they have figured out their genders which remain permanent throughout their lives. They value their own gender more and believe theirs is superior to the other.
+- While social learning theory portrayed children as passive taking in gender messages, this theory portrays that children are actively seeking to comprehend their gender.
 
 ### Psychodynamic Theory
 
+- **Psychodynamic theory** states that early relationships are central to human development. For most children, the relationship with the mother influences how an infant comes to define his or her gender.
+- According to Nancy Chodorow, a psychodynamic theorist, argued that:
+  - Mothers generally interact with daughters more and keep them close. As a result, the feminine traits of the mother passes down to the daughter.
+  - Mothers generally give more independence to sons. As a result, independence and self-reliance, masculine traits, become part of the son. They try to differentiate themselves from the mother.
+- Male psychological development, thus, tends to internalize both an intense fear and intense desire for woman. They see start seeing women as objects rather than human beings. So, they end up participating in gender discrimination and violence.
+
 ### Cultural Constructionism - Anthropological Theory
 
+- A third group of theories focus on understanding gender from a cultural perspective. Cultural scholars do not necessarily dispute biological or social factors, but they do assume that these are qualified by the influence of culture.
+- Tahitian men tend to display personality traits that may be considered feminine in other cultures e.g. mild-tempered, emotional, showing fear and crying.
+- Samoan men have to tattoo themselves to transition from a boy to a man.
+- In history, Native American tribes had established matrilineal links of kinship which were traced through females, not males. Many of these tribes also viewed women as relatively autonomous as compared to Western Europeans who colonized America.
+
 ### Homosexuality: Nature or Nurture?
+
+- Homosexuality plays a significant role in the debate between nature and nurture primarily due to the significant findings that have been established to the cause of homosexuality.
+- The debate is whether homosexuals have the ability to be nurtured into homosexuality, or if certain biological factors attribute to one being a homosexual.
+- The advancements of neuro scans have shown plausibility that there is a difference in homosexual brain scans as compared to heterosexual brain scans. The part of the brain that is associated with behavior and reproductive physiology known as the interstitial nuclei of the anterior hypothalamus is shown to be larger in heterosexual males compared to homosexual males.
+- some researchers argue that homosexuality is a learned behavior from homosexual parents. However, there are some studies that show many children of homosexual parents end up establishing their own gender identities.
