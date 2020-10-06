@@ -99,7 +99,7 @@ Fatalistic Suicide occurs due to extreme regulation and extreme positive integra
 ### Criticism
 
 - Durkheim stated that the individual is influenced by the external society through social facts but they are not always external, they may also be internal;
-- If the social facts force the individual to behave in a certain way, then individuals would be violate and go against the society;
+- If the social facts influence the individual to behave in a certain way, then why do individuals violate and go against the society;
 - Durkheim focuses on the society and not the individual.
 
 ### Bibliography

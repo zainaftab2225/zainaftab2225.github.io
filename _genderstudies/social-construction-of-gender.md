@@ -8,8 +8,9 @@ date: 2020-10-1
 
 - **Historicizing** means when one presents something as a product of historical development.
 - **Constructionism** means that we view the world through certain self made constructs (or ideas about reality).
-- **Historicizing Constructionism** hence means that over the course of history certain ideas have been constructed about gender. These ideas have been enforced and reinforced throughout time. So in today’s world they are not presented as constructs but as essential truths which have been established through historical development of man.
-- Social constructionism means that our realities are based on our experiences and interactions with other people. We experience the world through our own opinions. These opinions are constructed through a number of things such as culture, mores, tradition, beliefs and values. So one person might consider a dishwasher a necessity and the other might consider it a luxury.
+- **Historicizing Constructionism** hence means that over the course of history certain ideas have been constructed about gender.
+- These ideas have been enforced and reinforced throughout time. So in contemporary times, these are presented as facts and not constructs developed over time.
+- Social constructionism means that our realities are based on our experiences and interactions with other people and their culture. So one person might consider a dishwasher a necessity and the other might consider it a luxury.
 - Good examples of gender as a social construct are:
   1. Women have to perform domestic tasks whereas men have to work in the public sphere.
   2. Women are associated with the color pink whereas men are associated with the color blue.
@@ -168,14 +169,51 @@ date: 2020-10-1
 - A bundle of nerves and connecting tissue called the **corpus callosum** links the lobes of the brain. Women generally can use this structure efficiently to use both lobes of the brain whereas men largely use one side of their brain.
 
 **Essentialism**
+- Sigmund Freud offered an explanation of gender roles based on anatomy; he believed **anatomy is destiny**.
+- He believed that biology, particularly the genitals, determines which parent a child identifies with and how his psyche will develop.
+- Psychoanalysis is the theory of personality that stresses the influence of **unconscious mental processes**, the importance of sexual and aggressive instincts, and the enduring effects of early childhood experiences on personality.
+- Freud believed that our psychological makeup is divided into conscious mental process (just the tip) and unconscious mental processes (the whole iceberg).
+- Thus to understand personality and roles, it is important to expose what is in the unconscious.
+- He divided personality development in stages, the first of which is the **phallic stage**.
+- Phallic stage starts around age 3. This is the stage of **Oedipal conflict** where a male child unconsciously begins to develop a sexual interest in the mother, starts to see his father as a rival and wants to kill him (as Oedipus did in ancient Greece). However, the boy child views the father as more powerful so he develops a fear that the father may retaliate by castrating him. To resolve this castration anxiety, he teams up with his father and starts *identifying* as him: he ends up imitating his behavior, adopting similar beliefs and values. In the end, he internalizes his father's values, attitudes and norms resulting in a personality.
+- Girls also resolve the **Electra complex** by identifying with the same-sex parent. They experience penis-envy and wish they had a penis like the other boys and the father. Girls start blaming their mothers for their "castration". However, she attempts to be like her mother and identifies as her so she could get someone as a partner like her father.
+- **Criticism:** Gender differences are declining rapidly and Freud's influence on essentialism is waning. Women have become more assertive, competitive and independent in the last three decades. Secondly, essentialism harshly generalizes gender and base it solely on anatomy. It ignores variations within the gender group. Thirdly, there is so substantial study which links the assertiveness of boys to their sexual organs. Finally, essentialists' explanation of gender differences ignores the role of power developed over history. There is no reason young girls' sexual organs should represent her identity or self-confidence.
 
 **The Bruce Case**
+- A case of 'sex reassignment surgery' in Canada in 1968.
+- At eight months, baby Bruce's penis was burned off.
+- Dr. John Money thought that gender was solely a social construct and agreed to take on Bruce's case.
+- Although born as a boy, Bruce underwent surgery to become a girl - Brenda.
+- However, Brenda always showed masculine attributes such as playing with male toys, fighting with her brother and preferring to stand to urinate.
+- At age 14, she was told about her surgery. She felt elated and decided to reverse back to being a male again.
+- At age 18, Brenda became David and had her penis reconstructed.
+- This case shows that **gender identity might be inborn. Nurture's role is given little credit in the process, even though Dr. John Money favored the social constructionist argument for gender**.
+- However there are just as many counterarguments from the nurture side (that gender identity is learned).  
+
+
+**Summary**
+- Biological theories of gender attribute masculine and feminine qualities and abilities to genetics and biology. Yet biological theories tell us only about physiology and genetic qualities of men and women in *general*. This doesn't necessarily describe individual men and women.
+- A number of researchers also argue that while biology does determine our abilities and behavior, environmental forces may end up mitigate and override these biological factors e.g. interpersonal, societal and cultural influences on gender.
 
 ### Evolutionary Psychology
 
 - The primary concept of evolutionary psychology caters to the notion that the differences between genders and sexuality are a result of evolution and the different factors in men and women strategies for success.
 
 ### Social Learning Theory
+- From birth, males and females are treated differently
+- Girls are supposed to play with dolls, boys are supposed to play with action figures.
+- Girls are supposed to wear pink, boys are supposed to wear blue.
+- Social learning theory states that children learn gender from other people, mostly parents. Based on their **socialization**, they end up identifying with a certain gender.
+- Socialization is based on:
+  - **Rewards:** Reinforcing appropriate behavior e.g. a dog is rewarded when he plays fetch properly so he tries to do it again and again.
+  - **Punishments:** Extinguishing inappropriate behavior.
+- **Gender roles are learned directly through reprimand and rewards and indirectly through observation and imitation of the gendered behavior of same-sex playmates and adults especially their mothers and fathers.**
+- Some other examples are:
+  1. "Don't be a sissy"
+  2. "Big boys don't cry"
+  3. Boys should play outside sports
+  4. Girls should knit
+- The traditional division of labor - women to be at home, men to be in the public sphere - is a consequence of traditional socialization. Females and males have been socialized to perform various roles and to expect their partners to perform other complementary roles.
 
 ### Cultural Sexism
 

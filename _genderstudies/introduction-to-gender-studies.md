@@ -88,15 +88,15 @@ in 1970 at San Diego State College. As of 2012, there are 16 institutions offeri
 
 ### Important Events in the Discipline
 
-- 1953: Rise of the second-wave of feminism brought on with the help of the English translation of Simon de Beauvoir’s book The Second Sex.
-- 1970: First official Women’s Studies program was at San Diego State University.
-- 1977: The National Women’s Studies Association (NWSA) is created.
-- 1978: US Congress includes educational services in the Civil Rights Act designed to eliminate sex bias in school and society.
-- 1979: The first meeting of the National Women’s Studies Association (NWSA)discusses the subject of whether Women’s Studies were a discipline in its own right.
-- 1980: MA in Women’s Studies was offered at the University of Kent, UK (1980).
-- 1990s: Development of “queer theory” moves to include sexuality studies in Women’s/Gender Studies.
-- 1990: Rise of third-wave of feminism.
-- 2000s: The great naming debate over Women’s Studies versus Gender Studies.
+- **1953:** Rise of the second-wave of feminism brought on with the help of the English translation of Simon de Beauvoir’s book The Second Sex.
+- **1970:** First official Women’s Studies program was at San Diego State University.
+- **1977:** The National Women’s Studies Association (NWSA) is created.
+- **1978:** US Congress includes educational services in the Civil Rights Act designed to eliminate sex bias in school and society.
+- **1979:** The first meeting of the National Women’s Studies Association (NWSA)discusses the subject of whether Women’s Studies were a discipline in its own right.
+- **1980:** MA in Women’s Studies was offered at the University of Kent, UK (1980).
+- **1990s:** Development of “queer theory” moves to include sexuality studies in Women’s/Gender Studies.
+- **1990:** Rise of third-wave of feminism.
+- **2000s:** The great naming debate over Women’s Studies versus Gender Studies.
 
 ## Difference between Gender Studies and Women Studies
 

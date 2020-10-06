@@ -13,10 +13,10 @@ date: 2020-09-29
 ## Neolithic and Early Bronze Age
 
 - Archaeological evidence suggests that during the Neolithic and Bronze age, there may have been:
-  - a matrilineal system.
-  - female creator images.
-  - powerful queens.
-  - sexual freedom of women.
+  - a matrilineal system
+  - female creator images
+  - powerful queens
+  - sexual freedom of women
 - Some historians suggest that these ancient societies were neither based on patriarchy or matriarchy. The assert that it was rather an egalitarian society based on partnerships between the two sexes. Basically, there was **no stratification based on gender**.
 - Over time, this system was replaced by a patrilineal system where images of goddesses were replaced by images of gods.
 
@@ -60,17 +60,17 @@ date: 2020-09-29
 
 - In early Roman societies, men held all the authority. The families were known as **pater families**.
 - Women did have some freedom though. They could participate in:
-  - inheritance.
-  - common economic activities.
+  - inheritance
+  - common economic activities
 - The roman poet, **Juvenal**, warned men that women are dangerous and distracting.
 
 ## Middle Ages (400-1400 CE)
 
 - Christianity enveloped Europe during the Middle Ages which was misogynistic. The most notable misogyny occurred with the **witch burning**.
 - It was a brutal period of time for women because:
-  - they were labeled as witches.
-  - they were hunted down and burned alive.
-  - they were economically dependent on men.
+  - they were labeled as witches
+  - they were hunted down and burned alive
+  - they were economically dependent on men
 - Thousands of women were burned as witches to **appease God's anger**.
 - Another example of witch burning was in Salem where the witch trials were held. There is a famous play called **The Crucible by Arthur Miller** on it.
 
@@ -93,11 +93,11 @@ date: 2020-09-29
 - By the **18th century**, the colonies had become well-established and so did typical gender roles. 18th century America was a patriarchal society where women were relegated to the private sphere. Some women did own businesses but they were largely expected to work at home.
 - Not all women were the same in the colonies. **Wealthy European women and wives of Southern plantation owners** enjoyed considerable freedom. Although their lifestyle was centered around the house, they still managed slaves and servants.
 - **Legal Rights of Colonial Women:**
-  - no right to vote.
-  - no right to hold public office.
-  - right to a will (single only).
-  - right to property (single only).
-  - they had the right to sue or be sued (single only).
+  - no right to vote
+  - no right to hold public office
+  - right to a will (single only)
+  - right to property (single only)
+  - they had the right to sue or be sued (single only)
   - a widow received one-third interest in the personal property  of her deceased husband (one-half if there were no children)
   - married women could not buy property, make a will or be sued. She had virtually no legal standing.
 - The worst of the bunch in the colonies, however, were the **African American women**. Not only were they colonial women with limited rights, they were also slaves. Slave women had multiple responsibilities and zero freedom. They took care of their owner's family, their owner's house and at the end of the day, their own family and small dwellings.
