@@ -6,9 +6,9 @@ date: 2020-09-29
 
 ## Introduction
 
-- Women's historian, Mary Ritter, asserts that in 2500 years of written history, male writers overlooked the histories of females.
+- Women's historian, **Mary Ritter**, states that in 2500 years of written history, male writers overlooked the histories of females.
 - The history of mankind has been dominated by the political, economic and military exploits of an elite, powerful group of men.
-- Today, women's history accounts for the race, class and gender.
+- Today, women's history accounts for the **race, class and gender**.
 
 ## Neolithic and Early Bronze Age
 
@@ -45,7 +45,7 @@ date: 2020-09-29
 
 ### Women in Athens
 
-- The writings of Plato and Aristotle influenced the Greek society to relegate women to an inferior social status.
+- The writings of Plato and Aristotle influenced the Greek society to **relegate women to an inferior social status**.
 - Husbands and male kin held the power of life and death over women.
 - Childbearing responsibilities could be transferred from a mother to a concubine, further lowering a wife's subordinate status.
 - Athenian society did not tolerate women in public places except for funerals and all-female festivals.
@@ -71,7 +71,8 @@ date: 2020-09-29
   - they were labeled as witches.
   - they were hunted down and burned alive.
   - they were economically dependent on men.
-- Thousands of women were burned as witches to "appease God's anger".
+- Thousands of women were burned as witches to **appease God's anger**.
+- Another example of witch burning was in Salem where the witch trials were held. There is a famous play called **The Crucible by Arthur Miller** on it.
 
 ## The Renaissance (1300-1600 CE)
 
@@ -80,13 +81,13 @@ date: 2020-09-29
   - Women became patrons of literature and art.
   - Many women became authors, scientists, writers, etc.
 - Martin Luther advocated opening Christianity to everyone, even women. He introduced the idea of Protestantism. He believed that women were also made by God and will be judged on the basis of their faith.
-- Many women accepted Christianity and Protestantism because of these inclusive views. However, some women paid a heavy price who dared to criticize the Catholic church. They were tortured and executed.
+- Many women accepted Christianity and Protestantism because of these inclusive views. However, some women paid a heavy price who dared to criticize the Catholic Church. They were tortured and executed.
 - Even though Martin Luther was inclusive of women when it came to religion, he still thought women were not equal to men.
 
 ## The Colonial Era (1600-1800 CE)
 
-- Before the arrival of the Europeans, Native American women held important leadership roles. Future women's right activists would even look back to these Native American women as inspiration for their own fight for equal rights. With colonization and Christianity, women's high standing was largely lost.
-- Colonial white women in the Puritan era lived under Christian views imported from Europe. Some scholars argue that when colonialism started in the New World, women were scarce so they were given vital roles and prestige. They called it the **golden age of women**.
+- Before the arrival of the Europeans, Native American women held important leadership roles. Future women's right activists would even look back to these Native American women as inspiration for their own fight for equal rights.
+- With colonization and Christianity, women's high standing was largely lost. Colonial white women in the Puritan era lived under Christian views imported from Europe. Some scholars argue that when colonialism started in the New World, women were scarce so they were given vital roles and prestige. They called it the **Golden Age of Women**.
 - Life in early colonies was hard so women had to take on a variety of duties to survive such as labour, construction, etc. However, as time passed, women took on more traditional roles such as taking care of the farm and raising children.
 - In the **17th century**, the women in the colonies carried out a variety of tasks. As a result, gender roles were rather fluid early on. Women worked as nurses, midwives, and even arrived to America as **indentured servants** during this century.
 - By the **18th century**, the colonies had become well-established and so did typical gender roles. 18th century America was a patriarchal society where women were relegated to the private sphere. Some women did own businesses but they were largely expected to work at home.
@@ -103,9 +104,9 @@ date: 2020-09-29
 
 ## The Modern Era (1800-Present Day)
 
-- In the 19th and 20th century, women began demanding more and more rights. These demands are categorized in largely three time periods: the first wave of feminism, the second wave of feminism and the third wave of feminism.
+- In the 19th and 20th century, women began demanding more and more rights. These demands are categorized in largely three time periods: **the first wave of feminism, the second wave of feminism and the third wave of feminism**.
 - The demand for women's suffrage began in the 1840s. The **Seneca Falls Convention (1848)**, the first women's rights convention, demanded suffrage for women. The convention signed the **Declaration of Sentiments** which expressed that women and men were equal.
-- In 1890, the National American Woman Suffrage Association (NAWSA) with Susan B. Anthony as its leading force, was created.
+- In 1890, the **National American Woman Suffrage Association (NAWSA)** with Susan B. Anthony as its leading force, was created.
 - After a hard-fought series of votes in the U.S. Congress and in state legislatures, the **Nineteenth Amendment** became part of the U.S. Constitution in 1920. It states, "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex."
 - In Pakistan, the constitution promises to not discriminate on the basis of sex.
 - When Malaysia got freedom from British colonialists, they gave rights to women in 1957.

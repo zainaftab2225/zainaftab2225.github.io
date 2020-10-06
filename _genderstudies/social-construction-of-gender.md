@@ -167,6 +167,10 @@ date: 2020-10-1
 **Nerves**
 - A bundle of nerves and connecting tissue called the **corpus callosum** links the lobes of the brain. Women generally can use this structure efficiently to use both lobes of the brain whereas men largely use one side of their brain.
 
+**Essentialism**
+
+**The Bruce Case**
+
 ### Evolutionary Psychology
 
 - The primary concept of evolutionary psychology caters to the notion that the differences between genders and sexuality are a result of evolution and the different factors in men and women strategies for success.
@@ -180,3 +184,5 @@ date: 2020-10-1
 ### Psychodynamic Theory
 
 ### Cultural Constructionism - Anthropological Theory
+
+### Homosexuality: Nature or Nurture?

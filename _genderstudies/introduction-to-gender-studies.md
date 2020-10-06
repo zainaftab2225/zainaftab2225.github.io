@@ -49,7 +49,14 @@ date: 2020-09-27
 ### Definition
 
 - Gender Studies investigates the biological differences between men and women but focuses on these differences in a **socio-cultural context**.
-- It is a remarkable discriminating tool in the distribution of labor, care, possession, income, education, organizational qualities or diseases. Hence, it is important to study gender.
+- It is a remarkable discriminating tool in the distribution of:
+  - Labor
+  - Care
+  - Possession
+  - Income
+  - Education
+  - Organizational qualities
+  - Diseases
 
 ### Understanding Gender Studies
 
@@ -57,13 +64,14 @@ date: 2020-09-27
   1. How do stereotypical models of men and women develop?
   2. How do they change over time, and what factors contribute to changes?
   3. What impact do such stereotypes have upon actually existing men and women?
-- Men and women do not exist in isolation from their other social roles and positions. A woman also has a caste, class, creed, religious identity, etc. All these aspects are a part of her life. They need to be studied with respect to gender. Does gender have a influence on these aspects or not?
+- Men and women do not exist in isolation from their other social roles and positions.
+- A woman also has a caste, class, creed, religious identity, etc. All these aspects are a part of her life. They need to be studied with respect to gender. Does gender have a influence on these aspects or not?
 
 
 ### History and Evolution
 
 - At first, the concept of 'Gender Studies' did not exist. The subject emerged as Women's Studies due to the lack of knowledge and interest in women. It was considered necessary to study the situation of women and fill knowledge gaps.
-- The first Women's Studies course was apparently created by American historian Mary Ritter Beard, who in 1934 constructed a course titled "A Changing Political Economy as it Affects Women". It was never taught but it did lay down the foundations for women as a subject of academia.
+- The first Women's Studies course was apparently created by American historian, **Mary Ritter Beard**, who in 1934 constructed a course titled "A Changing Political Economy as it Affects Women". It was never taught but it did lay down the foundations for women as a subject of academia.
 - Women’s Studies, as an area of academic study, came into being during the emergence of feminism’s second wave:
   - First Women's Studies program in San Diego State University, USA (1970).
   - MA in Women’s Studies was offered at the University of Kent, UK (1980).
