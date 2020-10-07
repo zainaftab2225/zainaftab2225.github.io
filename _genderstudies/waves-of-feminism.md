@@ -4,7 +4,7 @@ excerpt: "Nature, nurture and everything in between."
 date: 2020-10-7
 ---
 
-## introduction
+## Introduction
 
 - Feminism is a movement **"of women, by women, and for women"** to achieve women's rights.
 - Feminism stands for:
@@ -187,4 +187,36 @@ date: 2020-10-7
 
 **1. Recognizing Differences Among Women: Transversal Politics**
 
-**
+- Third wave feminists believed that women are not the only ones who are oppressed, it the same with other segments of society e.g. the poor class or a minority race.
+- Thus, they believed to achieve gender equality without achieving race and class equality is to achieve very little for those women whose class or ethnicity or race is the primary source of their oppression.
+- This form of feminism involves a fusion of feminist theory and critical race theory.
+- According to these feminists, they believed that second wave feminism only focused on **"white and middle class"**. This had to change for the third wave.
+- Hence, third wave can be called an **inclusive movement** for feminism.
+
+**2. Building Coalitions**
+
+- Third wave feminists also wanted to **build alliances with men and other groups that work against various kinds of oppression**.
+- Third wave feminists want to build a movement that not only accepts but celebrates **diversity**.
+
+**3. Engaging in Everyday Resistance**
+
+- Third wave feminists believe that the reforms introduced by second wave feminists are not completely implemented.
+- Women and minorities still experience injustices so they must be confronted in day-to-day lives. They believe that racist comments, homophobic attitudes must be confronted and rejected publicly.
+
+**4. Being Media Savvy**
+
+- Third wavers are media savvy. They grew up in a media-saturated world so engaging media is part of how they define their identities.
+- They have YouTube channels, Twitter accounts, blogs, etc.
+- Some examples are:
+  1. **MomsRising** (online movement dedicated to mothers in US)
+  2. **RAINN** (Rape, Abuse, Incest National Network - a national hotline in case of an emergency)
+  3. **Riot grrl** (a feminist punk movement that produces music, art, etc.)
+  4. **Cyber grrls and Net grrls** (feminism and internet)
+
+
+**5. Embracing Aesthetics and Consumerism**
+
+**6. Individualism**
+
+
+## The Suffragette Movement in Britain**
