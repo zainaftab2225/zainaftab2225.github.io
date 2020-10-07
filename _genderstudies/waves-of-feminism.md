@@ -216,7 +216,20 @@ date: 2020-10-7
 
 **5. Embracing Aesthetics and Consumerism**
 
+- Third wave feminists believe in spending money to belong to or be seen at the "right" restaurant, spas, stores, etc. They want to acquire status symbols including designer clothes and branded products.
+- These women are strong and empowered, eschewing victimization and defining feminine beauty themselves, not as objects of a sexist patriarchy.
+
 **6. Individualism**
 
+- Third wave feminists emphasized individualism - individual identities, goals and strategies.
+- Women come in all shapes, sizes, colors, etc. They are individual beings with individual problems. No one theory or law can apply to all of them.
+- One such example of individualism is autobiographical essays on blogs or social network pages.
+- "Personal empowerment as a starting point for societal change"
+- **In sum, third wave feminists use media, particularly, social media, to build on and go beyond the ideas and accomplishments of prior feminist movements in an effort to make feminism more inclusive, engaged with everyday life, and more individualistic.**
 
-## The Suffragette Movement in Britain**
+## The Suffragette Movement in Britain
+
+- Suffragettes is used in Britain whereas suffragists is used in USA.
+- Suffragettes in Britain often used militant and violent tactics.
+-The **Representation of the People Act of 1918** granted the right to vote to women over the age of 30 and extended male voting rights as well.
+- The **Representation of the People Act of 1928** extended this to all women over the age of 21.
