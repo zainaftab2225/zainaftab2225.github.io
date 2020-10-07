@@ -42,6 +42,7 @@ date: 2020-09-29
 **Aristotle:**
   - Aristotle is more representative of the general view of how Greek society saw women.
   - Aristotle said that a husband should rule over his wife and children just as free men rule over slaves.
+  - Aristotle famously said that the women is a "deformed male".
 
 ### Women in Athens
 
