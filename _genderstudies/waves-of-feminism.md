@@ -1,6 +1,6 @@
 ---
 title: "Waves of Feminism"
-excerpt: "Nature, nurture and everything in between."
+excerpt: "The three waves of feminism..."
 date: 2020-10-7
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Waves of Feminism"
-excerpt: "Nature, nurture and everything in between."
+title: "UN Conferences on Women"
+excerpt: "The International Community and Women..."
 date: 2020-10-8
 ---
 
