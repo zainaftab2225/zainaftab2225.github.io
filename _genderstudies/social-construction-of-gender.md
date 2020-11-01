@@ -54,7 +54,9 @@ date: 2020-10-1
 
 ## Theories of Gender Inequality
 
-![image-center](/images/sociology/theoriesofinequality.PNG){: .align-center}
+![image-center](/images/genderstudies/toi.JPG){: .align-center}
+
+![image-center](/images/genderstudies/institutional.JPG){: .align-center}
 
 
 ## Queer Theory
