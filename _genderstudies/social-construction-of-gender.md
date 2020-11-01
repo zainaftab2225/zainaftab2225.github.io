@@ -56,7 +56,7 @@ date: 2020-10-1
 
 ![image-center](/images/genderstudies/toi.JPG){: .align-center}
 
-![image-center](/images/genderstudies/insitutional.JPG){: .align-center}
+![image-center](/images/genderstudies/institution.JPG){: .align-center}
 
 
 ## Queer Theory
