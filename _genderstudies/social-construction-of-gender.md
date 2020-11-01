@@ -52,6 +52,10 @@ date: 2020-10-1
   - Even if a woman and a man is doing the same task, the task is given different names e.g. personal assistant vs. executive secretary.
   - A man converted from a man to a woman and was treated differently by society in every manner. He is a travel writer. His name was James Morris and now, she is known as Jan Morris.
 
+## Theories of Gender Inequality
+
+![image-center](/images/sociology/theoriesofinequality.PNG){: .align-center}
+
 
 ## Queer Theory
 

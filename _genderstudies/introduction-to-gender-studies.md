@@ -71,11 +71,15 @@ date: 2020-09-27
 ### History and Evolution
 
 - At first, the concept of 'Gender Studies' did not exist. The subject emerged as Women's Studies due to the lack of knowledge and interest in women. It was considered necessary to study the situation of women and fill knowledge gaps.
+- Emergence of Gender Studies has been possible due to the presence of women studies.
+- Women argued that access to education doesn't ensure educational equity.
+- Goal of women in academia was to prevent bias and ignorance in knowledge base about women, leading to injustice in society, politics, etc.
 - The first Women's Studies course was apparently created by American historian, **Mary Ritter Beard**, who in 1934 constructed a course titled "A Changing Political Economy as it Affects Women". It was never taught but it did lay down the foundations for women as a subject of academia.
 - Women’s Studies, as an area of academic study, came into being during the emergence of feminism’s second wave:
   - First Women's Studies program in San Diego State University, USA (1970).
   - MA in Women’s Studies was offered at the University of Kent, UK (1980).
   - India established vigorous Women’s Studies research in the early 1970s.
+- Establishment of women studies was a logical step towards development of feminist epistemology. 
 - Some twenty years later, more than 600 such programs existed, including both undergraduate and graduate programs.
 - A number of disciplines across the social sciences, the arts and humanities began to pay increasing attention to gender after the second wave of feminism. Before that, these disciplines largely ignored gender.
 - Western intellectuals and male critics called this emerging discipline a fad that will die down with time and it had no intellectual merit.
