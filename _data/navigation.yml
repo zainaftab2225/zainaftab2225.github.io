@@ -10,6 +10,8 @@ main:
     url: /resume/
   - title: "Computer Science"
     url: /computerscience/
+  - title: "Machine Learning"
+    url: /machinelearning/
   - title: "US History"
     url: /historyofusa/
   - title: "Sociology"
