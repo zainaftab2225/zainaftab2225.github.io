@@ -352,6 +352,18 @@ defaults:
       toc: true
       toc_sticky: true
 
+  # _machinelearning
+  - scope:
+      path: ""
+      type: machinelearning
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      toc: true
+      toc_sticky: true
+
   # _historyofusa
   - scope:
       path: ""
