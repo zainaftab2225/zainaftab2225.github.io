@@ -12,6 +12,10 @@ about video games. Feel free to browse my website. Thanks for stopping by.
 {% assign post = site.videogames.last %}
 {% include archive-single.html sort_by='date' sort_order='reverse' %}
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_machinelearning_post | default: "Recent Machine Learning Post" }}</h3>
+{% assign post = site.machinelearning.last %}
+{% include archive-single.html sort_by='date' sort_order='reverse' %}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_historyofusa_post | default: "Recent History of USA Post" }}</h3>
 {% assign post = site.historyofusa.last %}
 {% include archive-single.html sort_by='date' sort_order='reverse' %}
